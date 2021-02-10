@@ -1,31 +1,47 @@
 const fs = require('fs')
 
 const scraperObject = {
-    url: 'https://help.wagwalking.com/category/dog-owners',
+    url: 'https://help.wagwalking.com/category/dog-walkers',
     async scraper(browser){
-        let dataObj = {}
-        let page = await browser.newPage();
-        console.log(`Navigating to ${this.url}...`);
-        await page.goto(this.url);
+        try {
+
+            let page = await browser.newPage();
+            console.log(`Navigating to ${this.url}...`);
+            await page.goto(this.url);
+            
         
-       
-        let links = await page.$$eval('div[class="content-main__inner"] ul li > a', cards => cards.map(card => card.href))
-        //console.log(links)
+            let links = await page.$$eval('div[class="content-main__inner"] ul li > a', cards => cards.map(card => card.href))
+            //console.log(links)
 
-        links.map(link => new Promise(async(resolve, reject) => {
+            links.map(link => new Promise(async(resolve, reject) => {
+                
+                let newPage = await browser.newPage();
+                await newPage.goto(link);
+                
             
-            let scrape_data
-            let newPage = await browser.newPage();
+                let section_list = await newPage.$$eval('div[class="section-list-wrap"] > div',async h2 => h2.map(headings => {
+                    let dataObj = [];
+                    let _id = headings.querySelector('h2 > a');
+                    //let content = headings.getAttribute("class")
+                    let content = headings.lastElementChild.innerText
+                    dataObj.push(_id.textContent);
+                    dataObj.push(content);
 
-            await newPage.goto(link);
-            
-            let data = await newPage.evaluate(() => {
-                scrape_data = document.querySelector('div[class="section-list-item-articles"]').innerHTML
-                return scrape_data
-            })
-            //console.log(data)
-            fs.appendFile('wags_dog-owners_scraped.txt', data+'\n', (e) => console.log(e))
-        }))
+                    return dataObj;
+                })
+                )
+                
+                // console.log(section_list)
+                // fs.appendFile('wag_dog-walkers_scraped.txt', section_list, (e) => console.log(e))
+                // fs.appendFile('dog-walkers-data.json', JSON.stringify(section_list), 'utf8', (e) => console.log(e))
+                //return section_list;
+                console.log(section_list)
+            }
+            ))
+        } catch (error) {
+            console.log(error)
+        }
+        
     }
 };
 
