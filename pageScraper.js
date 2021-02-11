@@ -1,8 +1,10 @@
 const fs = require('fs')
 
+
 const scraperObject = {
-    url: 'https://help.wagwalking.com/category/dog-walkers',
+    url: 'https://help.wagwalking.com/category/dog-owners',
     async scraper(browser){
+
         try {
 
             let page = await browser.newPage();
@@ -13,7 +15,7 @@ const scraperObject = {
             let links = await page.$$eval('div[class="content-main__inner"] ul li > a', cards => cards.map(card => card.href))
             //console.log(links)
 
-            links.map(link => new Promise(async(resolve, reject) => {
+            let arr = links.map(link => new Promise(async(resolve, reject) => {
                 
                 let newPage = await browser.newPage();
                 await newPage.goto(link);
@@ -23,25 +25,22 @@ const scraperObject = {
                     let dataObj = [];
                     let _id = headings.querySelector('h2 > a');
                     //let content = headings.getAttribute("class")
-                    let content = headings.lastElementChild.innerText
+                    let content = headings.lastElementChild.innerText;
+
                     dataObj.push(_id.textContent);
                     dataObj.push(content);
-
+                    //writer(dataObj)
                     return dataObj;
                 })
                 )
+                await fs.appendFile('dog-owners-data.json', JSON.stringify(section_list), 'utf8', (e) => console.log(e))
+                return console.log(section_list)
                 
-                // console.log(section_list)
-                // fs.appendFile('wag_dog-walkers_scraped.txt', section_list, (e) => console.log(e))
-                // fs.appendFile('dog-walkers-data.json', JSON.stringify(section_list), 'utf8', (e) => console.log(e))
-                //return section_list;
-                console.log(section_list)
             }
             ))
         } catch (error) {
             console.log(error)
         }
-        
     }
 };
 
