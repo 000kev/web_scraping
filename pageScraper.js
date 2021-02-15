@@ -2,7 +2,7 @@ const fs = require('fs')
 
 
 const scraperObject = {
-    url: 'https://help.wagwalking.com/category/dog-owners',
+    url: 'https://help.wagwalking.com/category/dog-walkers',
     async scraper(browser){
 
         try {
@@ -21,43 +21,37 @@ const scraperObject = {
                 await newPage.goto(link);
             
             
-                let section_list = await newPage.$$eval('div[class="section-list-wrap"] > div',async h2 => h2.map(headings => {
-                    let dataObj = [];
+                let section_list = await newPage.$$eval('div[class="section-list-wrap"] > div',async el => el.map(headings => {
                     
                     let _h2 = headings.querySelector('h2 > a');
                     //let content = headings.getAttribute("class")
 
                     let _h3 = Array.from(headings.querySelectorAll('div[class="section-list-item-articles"] div[class="section-list-article"]').values()).map(el => {
-                        
-                        let tempObj = [];
+            
                         let heading = el.querySelector('div.section-list-article-title.open');
                         let body = el.querySelector('div.section-list-article-text.formatted div.section-list-article-text-body')
-                        tempObj.push({"h3": heading.textContent, "body": body.innerHTML})
 
-                        return tempObj;
+                        return {"h3": heading.textContent, "data": body.textContent};
                     });
                     
-                    let cont = [];
+                    let container = [];
                     _h3.forEach((e) => {
-                        cont.push(e);
+                        container.push(e);
                     });
 
-
-                    dataObj.push({
+                    return {
                         "h2": _h2.textContent,
-                        "data": cont
-                    });
-
-                    return dataObj;
+                        "data": container
+                    }
                 })
                 )
                 
                 let packet = {
                     "title": await newPage.title(),
-                    "content": JSON.stringify(section_list)
+                    "data": section_list
                 }
                 //console.log(packet)
-                await fs.appendFile('dog-owners-data.json', JSON.stringify(packet)+',', 'utf8', (e) => console.log(e))
+                await fs.appendFile('dog-walkers-data.json', JSON.stringify(packet)+',', 'utf8', (e) => console.log(e))
             }
             
             ))

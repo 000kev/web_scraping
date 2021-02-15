@@ -3,7 +3,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "dev": "nodemon index.js",
-    "write": "node textWriter.js"
+    "write": "nodemon textWriter.js"
   },
   "dependencies": {
     "puppeteer": "5.4.1"

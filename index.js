@@ -1,5 +1,5 @@
 const browserObject = require('./browser');
-const scraperController = require('./pageController');
+const scraperController = require('./pageController'); // pageController -- wag, PC -- rover
 const fs = require('fs')
 
 //Start the browser and create a browser instance
