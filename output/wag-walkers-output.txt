@@ -1,0 +1,1399 @@
+          <h1>Request a Cover | Wag! Help Center</h1>
+                    <h3>Request a Cover</h3>
+                         <h4> In the event you’re unable to complete a service, you may request a cover through the Walker App. Requesting a cover makes the service available for another Pet Caregiver to accept. While we understand you may need a cover on a rare occasion, repeated use of covers may affect your Pet Parent Favorability. More importantly, it results in a poor experience for the Pet Parent and their pet.  
+How do I cancel a service? 
+ You can submit a cover from the Home Screen of the Walker App:  
+ 
+ Tap "Booked" (the calendar icon) → 
+ Tap the red bell → 
+ Tap "Request a Cover" → 
+ Tap "Yes" & select the service(s) for which you need to submit a cover. 
+ 
+Does submitting a cover affect my ability to book services? 
+ While there may be rare occasions where you need a cover, repeated use of this capability or calling Support to request a cover may affect your cancellation rating (which is part of your Pet Parent Favorability). More importantly, it results in a poor experience for the Pet Parent and their pet.  
+What if the Pet Parent requests a cancellation? 
+ If a Pet Parent needs to cancel a service, they need to do so in the "Schedule" tab of the Wag! App. Submitting a cover at the request of a Pet Parent can affect your cancellation rating (which is part of your Pet Parent Favorability). </h4>
+
+                    <h3>Running Late?</h3>
+                         <h4>What do I do if I'm running late? 
+ If you are running late for a scheduled service, please communicate with the Pet Parent via in-app chat and update your ETA (iOS only). If you fail to do so, a cover may be created for the schedule and you will not receive a payout or a cancellation fee for the service.  
+How do I update my ETA if I'm stuck in traffic or running behind? 
+ If you're running late and you're using an iOS device, you can update your ETA for an active service by tapping the "ETA" button in the top right corner of the screen. </h4>
+
+               <h2>Running Late</h2>
+               <h2>Schedule Changes</h2>
+                    <h3>Pet Parent Schedule Changes</h3>
+                         <h4>What do I do if a Pet Parent needs to update their schedule? 
+ If a Pet Parent reaches out to you to request a schedule change including a change in time, an extension, an addition to dog count, or a cancellation, please redirect them to the Wag! App, where they can make changes to their schedule under the Upcoming Services tile. </h4>
+
+          <h1>Getting Started | Wag! Help Center</h1>
+               <h2>How Wag! Works</h2>
+                    <h3>Tips from Other Pet Caregivers</h3>
+                         <h4>Service Animals 
+ If you require a service animal, it's recommended to follow these steps:  
+ 
+ Add the information about requiring a service animal to your public bio 
+ Prior to the service, reach out to the pet parent and inform them of the need for the service animal 
+ If the service animal assists you on the walk, please ask the pet parent if they have any safety issues with their own dogs that may put you or the animals in danger 
+   
+   If no, complete the service as normal 
+   If yes, please submit a cover through the app  
+    
+ 
+Navigating The App 
+ As an app-based platform, efficient navigation of the app can play a major role in a successful service. Pet Caregivers on the platform have found success in preparing to perform a service with Wag! by doing the following:  
+ 
+ Completing their test walk 
+ Familiarizing themselves with the app navigation and features 
+ Reading the Terms of Services 
+ Reading the Pet Caregivers section of the Wag! help center 
+ 
+Keeping Keys Safe 
+ A Pet Parent places a great deal of trust in Pet Caregivers to access their property and care for their dog(s). Pet Caregivers have shared the following tips for keeping a Pet Parent’s keys safe:  
+ 
+ Put the key back in its original spot before heading out on the walk 
+ Make sure the key is secure prior to ending the service 
+ If for any reason you are unable to lock up, make sure to indicate this in the app upon completion of the service  
+ Ensure the property is secured in the same way it was when you arrived 
+ If keys are misplaced, contact the Pet Parent and Customer Service for assistance  
+ 
+Security and Home Access 
+ Staying safe and making thoughtful decisions are important to the wellbeing of Pet Caregivers, Pet Parents, and the dogs using Wag!. Pet Caregivers have found success in staying safe and making thoughtful decisions by doing the following:  
+ 
+ Entering a Pet Parent's home through designated doors / entries 
+ Avoiding unsafe situations 
+ Avoiding entering or accessing areas of the home not necessary to completing a service 
+ Remaining aware of their surroundings 
+ 
+Picking Up After The Pup 
+ Dog waste can spread disease and become a smelly nuisance. In addition, many jurisdictions will issue a citation for dog waste that has not been picked up. Pet Caregivers have shared the following suggestions:  
+ 
+ Before leaving on the walk, be sure you have something handy to pick up after the dog(s) 
+ Clean up the dog’s waste while on the walk 
+ It is a good idea to keep a few bags on hand at all times 
+ If a citation is issued, work respectfully with the local officials while communicating with the Pet Parent and Wag! customer service 
+ 
+ Have additional tips or tricks for completing a safe and efficient service? Tell us at feedback@wagwalking.com! </h4>
+
+                    <h3>Safety at Wag!</h3>
+                         <h4> At Wag!, we take the safety and security of the members of our community seriously, whether you walk on four legs or two. Pet Parents and Pet Caregivers trust Wag! to ensure a safe platform; from walks to sittings and boardings, to veterinary chats and training, Wag! puts safety first.   
+ Wag!’s Trust & Safety team is here to address your safety concerns by thoroughly reviewing and resolving platform issues in a timely manner. For assistance in facilitating a safe experience, the Wag! Help Center is stocked with the latest resources, including the community’s Best Tips and Practices.   
+  
+How can I report a safety concern? 
+ If you are party to or experience a safety concern, our friendly support team is available 24/7 to triage your questions and concerns. Please do not hesitate to reach out to Wag! through any of our community Safety channels:  
+ 
+ For safety concerns requiring immediate attention, utilize the Emergency Bell icon to contact 911 or Wag!’s Emergency line  
+ Feel free to email us at feedback@wagwalking.com to discuss your experience 
+ For non-emergent customer service, use the Help tab in the Wag! app 
+</h4>
+
+                    <h3>Direct Bookings</h3>
+                         <h4>What are Direct Booking? 
+ With Direct Bookings, Pet Caregivers are able to refer Pet Parents to Wag! and automatically become their Preferred Walker.  
+ 
+ Open the Main Menu from the top left of the Walker App home screen →  
+ Tap “Direct Booking” → 
+ Tap "Text invites" 
+ 
+ The Pet Parent will receive a text with instructions on how to book and you'll receive a referral bonus after their first paid service! </h4>
+
+                    <h3>Wag! Gifts</h3>
+                         <h4>Does Wag! offer gift cards?  
+ While physical gift cards are not available, you can purchase Wag! Gifts to be delivered electronically to your friends and family! Wag! Gifts can be redeemed for any Wag! service, including Walks, Overnight Care, Training, Drop-Ins, and digital Veterinary Care, just like a gift card.  
+What are Wag! Gifts?  
+ Wag! Gifts are pre-purchased credits that can be delivered to friends and family and applied toward any Wag! Service. Wag! Gifts are available in $25, $50, $100, $250, and $500 amounts.  
+How do I purchase a Wag! Gift? 
+ Wag! Gifts must be purchased online at wagwalking.com/gift-card. Just enter the recipient’s details, add the amount of credits you’d like to purchase, and tap “Submit!”  
+Are Wag! Gifts available in custom amounts?  
+ No, custom amounts are not available.  
+Can I use my Wag! Gift toward any service? 
+ Yes! Wag! Gifts can be redeemed for any Wag! service, including Walks, Overnight Care, Training, Drop-Ins, and digital Veterinary Care. Wag! Gifts cannot, however, be used to pay a Pet Caregiver’s tip. Tips will be charged to the credit or debit card on file.  
+Can I schedule a Wag! Gift to be delivered on a certain date?  
+ No, Wag! Gifts are delivered when the purchase is made.  
+Why didn’t my recipient receive my Wag! Gift?  
+ Please have the Gift recipient check their spam folders. If they are still unable to find the Gift using the email address you provided to Wag!, email gifts@wagwalking.com so we can confirm their email address and re-issue the credit if necessary.  
+I used my Wag! Gift but I was still partially charged for a service. 
+ Please keep in mind that tips cannot be paid using Wag! Gifts. Any tip amount applied to a service will be charged to the credit card on file.   
+Can I get a refund for my Wag! Gift?  
+ Gift Cards may not be sold, copied, modified, transferred, reloaded, returned, or redeemed for cash, as stated in the Wag! Gift Card Terms and Conditions.  </h4>
+
+                    <h3>General Information</h3>
+                         <h4> Wag! makes safety a priority for all dogs, Pet Caregivers, Pet Parents and others on the Platform. Vaccinations help prevent dog diseases, aid in avoiding costly treatments for animal illnesses and even prevent the spread of certain diseases to humans. Wag! maintains a strict Vaccination Policy prohibiting unvaccinated dogs on the Platform. This means that in order to be eligible to receive an in-person Service (Walk, Drop-In, Overnight Care, or Training), each dog must have the following up-to-date shots and vaccines: DA2PPV, Bordetella, and Rabies.  Your veterinarian may also recommend others specifically relevant to your dog or location. In addition, for areas that have a high incidence, Wag! also recommends the canine influenza vaccination. </h4>
+
+               <h2>Sign-up Process</h2>
+                    <h3>Applications on Hold</h3>
+                         <h4> As of October 2020, Pet Caregiver Applications are on hold in the following states:  
+ New York Maine Montana South Dakota Vermont Wyoming  
+ If you are located in any of the above states and have already applied, you will receive an email once applications for your state begin to process. We look forward to welcoming you to the platform soon!  
+ For more information about your Application, click here. </h4>
+
+                    <h3>Sign Up to be a Pet Caregiver</h3>
+                         <h4>How do I sign up to use Wag! as a Pet Caregiver? 
+ To sign up to use the Wag! platform as a Pet Caregiver, simply tap “Become a Dog Walker” from the main menu of the Wag! App, or click here.  
+How long does the sign up process take? 
+ On average, the entire process takes 14 days, but can take up to 3 weeks. To check the status of your application, please click on the “[Portal Link]” found in all communications from Wag! throughout the sign up process.   
+How soon can I start caring for pets? 
+ Once you’ve been approved to use the platform, you’ll receive an email with next steps. You’ll need to set up your Stripe account first, then you can begin caring for pets right away!  
+How old do you have to be to sign up? 
+ You must be 18 years or older to sign up for access to the Wag! platform.  
+How much does it cost to sign-up? 
+ The background check is $29.95. After your background is cleared, you will be able to find clients and manage your pet care business, all through the convenience of the Wag! Walker App.  
+Is there a background check? 
+ Yes. A clear background check is required in order to be accepted to the platform. Background checks are performed by Vetty, a third-party background check provider, who may perform employment, education, criminal record, credit history, motor vehicle, and license record checks. Once Wag! receives your completed background check from Vetty, we will use the results to make our decision and inform you of this decision via email.  
+ Please note that you will need to provide a valid Driver's License, State Issued ID, US Passport, or Permanent Resident Card. Vetty cannot accept any form of ID that is past it’s expiration date.  
+How do I check the status of my application? 
+ To check the status of your application, please click on the “[Portal Link]” found in all communications from Wag! throughout the sign up process. To check the status of your background check, visit applicant.vetty.co/login.  
+I signed up but I have not gotten any emails from Wag!. 
+ If you have not received any email communications from Wag! after completing the sign up process, it is likely that our emails have gone into your spam or junk folder. Please be sure to periodically check any spam or junk folders throughout the application process.   
+What happens if I fail the pet care quiz? 
+ If you do not pass the pet care quiz, your application will be rejected, however, you will be allowed one additional attempt to pass the quiz.  
+If I’ve already signed up, do I have to go through the entire sign up process again? 
+ If your application was approved, you can follow the instructions to download the Pet Caregiver app here. If your application was rejected due to low quiz scores or your application timed out due to inactivity, you will be allowed one additional attempt. If your application was rejected for any other reason, you will not be able to reapply.  
+When and how do Pet Caregivers get paid? 
+ Pet Caregivers are paid through Stripe, a third party payment processing system. Payouts are released on Fridays for the services completed the previous week. Most Pet Caregivers also qualify for Instant Pay.  
+Will I qualify for health insurance and benefits? 
+ No, you will not receive health insurance or benefits as an independent contractor. Wag! has teamed up with Stride Health to help Pet Caregivers using Wag! navigate their own insurances.  
+When do I get my Wag! T-Shirt? 
+ If you opted in to receive a Wag! T-Shirt, you’ll receive a tracking number via email from Shipwire. Your shirt should be delivered within 5 business days. If you’ve been approved to use the Wag! platform and you have not received an email from Shipwire with a tracking number, please contact Customer Support via the Help Tab in the Walker App.  
+If my application was previously rejected, can I sign up again? 
+ If your application was rejected due to low quiz scores or your application timed out due to inactivity, you will be allowed one additional attempt. If your application was rejected for any other reason, you will not be able to reapply. </h4>
+
+                    <h3>Endorsements</h3>
+                         <h4>What are Endorsements? 
+ You can request endorsements from your friends, family, clients, and coworkers to strengthen your Pet Caregiver application and speed up the application process. The more endorsements you provide, the faster your application may be processed. Please note that your endorsement link must be opened from a mobile device.  
+How do Endorsements work? 
+ You’ll receive an email with your endorsement link; feel free to share it with as many people as you’d like. They'll need to create an account to verify their identity and submit a short paragraph about you and your experience.  
+How many endorsements do I need? 
+ You are required to have three (3) endorsements in order to apply. The more endorsements you have, the faster your application may be processed! You can share your endorsement link with as many people as you’d like.  
+Who should I ask for endorsements? 
+ You can ask friends, family, coworkers, clients… whomever!  They should be able to speak to your ability to be a Pet Caregiver and it helps if they're dog owner's themselves. The more endorsements you have, the faster your application may be processed.  
+Why does my endorser need to download the Wag! app? 
+ We require the endorser to download the Wag! App to verify their identity and legitimize your endorsement. </h4>
+
+                    <h3>Downloading the Walker App</h3>
+                         <h4>How do I download the Walker App? 
+ Once you are approved to begin using the Wag! platform, you can download the Walker App by clicking here from your mobile device. Create your login and password using the instructions below. Please note that this app is different from the Pet Parent app that you can find in the App and Google Play stores.  
+I got a new phone or I deleted the app and need to re-download the Walker App. 
+ If you have previously logged in to the Walker app and are still active on the platform, you can download the Walker App by clicking here from your mobile device.  
+iOS Users: What do I do if Wag! is an "Untrusted Developer?" 
+ Note: iOS users may see a pop up that indicates that the Walker App is "untrusted." To bypass this message:  
+ 
+ Navigate to your phone's "Settings" → 
+ Tap on "General" → 
+ Tap "Profiles" or "Profiles and Device Management" → 
+ Tap ¨WAG LABS INC¨ in the Enterprise App section → 
+ Tap "Trust" → 
+ Tap "Confirm" 
+ 
+Android Users: How do I install unknown apps? 
+ Android users may need to enable the ability to "Install Unknown Apps" in their device settings. To bypass this message:  
+ 
+ Open the Walker App → 
+ From the "Install unknown apps" pop up, select "Settings" → 
+ Toggle the "Unknown Apps" setting to "ON" → 
+ Finish installing the app 
+</h4>
+
+                    <h3>Requesting a Service</h3>
+                         <h4>Where do I find available services? 
+ Open the "Available" tab on the Home Screen of the Walker App.    
+ In the Available Services Feed, each service will display:  
+ 
+ The name of the dog 
+ A picture of the dog 
+ The time & length of the service 
+ Whether the service is On-Demand (ASAP), One-Time, or Recurring  
+ How far the walk is from your home or your current location (depending on your settings) 
+ The payout 
+ 
+How do I request a service? 
+ When you see a service you’d like to request, simply tap the “Request” button. You'll receive a notification if you've been matched to the Pet Parent.  
+What happens after I request a service? 
+ The service will move to your "Requested" tab and you'll receive a notification if you've been matched to the Pet Parent. </h4>
+
+               <h2>Approved Walkers</h2>
+                    <h3>Stride</h3>
+                         <h4> What is Stride?  
+ Wag! has partnered with Stride to provide Pet Caregivers with health and financial resources during the COVID-19 pandemic and beyond. For any questions about Stride and any of its offerings, please visit their help center directly.  
+  
+ What can Stride provide assistance with?  
+ 
+ Stride can provide information and assistance in understanding the CARES Act, COVID-19 financial support and relief, and general tax information for the gig economy worker. To learn more, visit COVID-19 Financial Support.  
+ Stride provides resources to make it as easy as possible for gig economy workers when it comes to purchasing health, dental, vision, and life insurances. To learn more about your eligibility, click here. 
+ Information regarding your eligibility for unemployment during the COVID-19 pandemic and how to navigate Pandemic Unemployment Assistance (PUA). 
+ For more information on the ways Stride can help, check out our Wag! + Stride COVID-19 Resource Guide. 
+ 
+  
+ Please note that your use of Stride, a third-party resource, is completely voluntary and at your discretion. Wag! does not provide any financial or health benefits nor endorse any providers, and any and all resources are provided by third parties via Stride. For any questions about Stride and any of its offerings, please visit their help center directly. </h4>
+
+                    <h3>Test Walk</h3>
+                         <h4>How do I complete my test walk? 
+ After your Wag! profile is activated, you’ll have a Test Walk generated in your app. The Test Walk is for you to get acquainted with the features within the app. It will be available for 30 days from the time you successfully log into the app for the first time. You do not need to go anywhere or complete the Test Walk at the time shown in the app. </h4>
+
+                    <h3>Employment Verification</h3>
+                         <h4> Can Wag! provide proof of employment for Pet Caregivers?  
+ Because Pet Caregivers using Wag! are independent contractors and are not Wag! employees, Wag! cannot provide proof of employment.  
+ Is there anything that I can use in-app to show proof of employment?  
+ Some Pet Caregivers have found success printing their Stripe statements to show income they've made as independent contractors. To view your payment history and filter by year:  
+ 
+ Open the Main Menu of the Walker App from the top right corner of the Home Screen → 
+ Tap “Payments” → 
+ Tap “Completed by year” 
+</h4>
+
+          <h1>Services | Wag! Help Center</h1>
+               <h2>Walks</h2>
+                    <h3>One-Time Walks</h3>
+                         <h4>What are One-Time Walks? 
+ One-time walks are a scheduled, one-time commitment of either 20, 30, or 60 minutes. These walks are a great option for Pet Caregivers who need a flexible schedule.  
+Can Pet Parents book several One-Time Walks at once? 
+ Yes! It’s important to note that Pet Parents may request more than one “one-time” walk per week. In this instance, you’ll see which days the Pet Parent has requested their dog to be walked, with the “One-Time” label underneath the time and walk length. This means these walks are only for the upcoming week, not a request for a recurring schedule.  
+Where do I see the walk type in the app? 
+ The walk type will be noted below the requested time and walk length. The service will be listed as a one-time walk, on-demand walk, or recurring walk.  
+ To view the walks available in your area, click here. </h4>
+
+                    <h3>Recurring</h3>
+                         <h4>What is a Recurring Service? 
+ Recurring services repeat each week on the same day(s) and time(s). These walks typically require a commitment of 3+ months and allow Pet Caregivers to keep a consistent, set schedule.  
+What if I'm unavailable for one of the services in a Recurring Schedule? 
+ In the event you’re unavailable for a service in your recurring schedule, you can request a cover.  Pet Caregivers recommend submitting a request two weeks in advance to give ample time to find a cover and help ensure the Pet Parent is receiving the quality of service he or she expects. </h4>
+
+                    <h3>On-Demand</h3>
+                         <h4>What is an On-Demand Walk? 
+ On-Demand Walks, shown in the Walker App as "ASAP," are walks that have not been scheduled in advanced by the Pet Parent. Instead, the Pet Parent requests the walk to occur as soon as possible.  
+How do I know if a walk is On-Demand? 
+ On-Demand Walks will appear in the Walker App as "ASAP" and will typically reflect a start time within the next 30-minutes.  
+What if the start time for an ASAP or On-Demand Walk has passed? 
+ If you see an On-Demand Walk in the Available Walks Feed with a start time that has already passed, the Pet Parent has been waiting longer than usual for a Pet Caregiver to opt-in. If you're available, feel free to opt-in to the service!  
+I opted in to an On-Demand Walk but I wasn't approved, and the Walk is still in my Feed. What do I do? 
+ The Walk was already accepted by another Pet Caregiver. It will disappear from your Feed shortly. </h4>
+
+               <h2>Overnight Care</h2>
+                    <h3>Sitting</h3>
+                         <h4>What is a Sitting? 
+ A Sitting is Overnight Care that takes place at the Pet Parent's Home. During the day, Pet Caregivers will keep the pet company and take care of them, including regular feeding & potty breaks, and of course plenty of snuggles! It's best practice to communicate with the Pet Parent as you prepare for a Sitting to ensure all their needs and expectations are met.   
+Am I able to leave during a Sitting? 
+ Pet Caregivers can come and go during the day, but they are encouraged to be with the pet(s) as much as possible and not leave for more than a few hours at a time.  
+Can I book other services while I have an active Sitting? 
+ While Pet Caregivers can only have one active Overnight Care appointment at a time, they are still able to schedule Walks and Drop-Ins. It's best for Pet Caregivers to keep in mind the Pet Parent's expectations for the sitting or boarding while performing other services on the platform. It's best practice to communicate with the Pet Parent as you prepare for a Boarding to ensure all their needs and expectations are met. </h4>
+
+                    <h3>Preparing For Transportation</h3>
+                         <h4>Do I need to pick up the pet? 
+ If a Pet Parent requires you to pick up their pet for a Boarding appointment, it will be listed in the details of the service, which you'll see before opting-in.  
+How do I transport a pet? 
+ If you’ve booked a Boarding with a transportation component, it’s important to know how to safely and securely transport the dog from the Pet Parent’s home to yours, and back!  
+ It’s the Pet Parent’s responsibility to provide adequate equipment for the transportation of their pup.  This can include a dog seat belt or harness and/or crate. Crates are a good option to help ensure the pup’s safety when traveling, especially when in a car.  If you use a crate, make sure that the crate is the correct size for the dog being transported and that the crate is securely anchored to the vehicle. This can be done in a variety of ways, so be sure you choose the correct option for the dog, and crate being used.  
+ For tips specific to driving with a dog, check out these helpful tips from Robert Cabral: Road Trip: Driving With Your Dog </h4>
+
+                    <h3>Boarding</h3>
+                         <h4>What is a Boarding? 
+ A Boarding is Overnight Care that takes place at the Pet Caregiver's home. Pet Caregivers will keep the pet company and take care of them, including regular feeding & potty breaks, and of course plenty of snuggles! It's best practice to communicate with the Pet Parent as you prepare for a Boarding to ensure all their needs and expectations are met.   
+Do I need to pick up and drop off the pets? 
+ Pet Parents can request their pets to be picked up and dropped for an additional fee. Pet Caregivers will receive an additional payment for pick-up and drop-off as well.  
+Am I able to leave during a Boarding? 
+ Pet Caregivers can come and go during the day, but they are encouraged to be with the pet(s) as much as possible and not leave for more than a few hours at a time.  
+Can I book other services while I have an active Boarding? 
+ While Pet Caregivers can only have one active Overnight Care appointment at a time, they are still able to schedule Walks and Drop-Ins. It's best for Pet Caregivers to keep in mind the Pet Parent's expectations for the sitting or boarding while performing other services on the platform. It's best practice to communicate with the Pet Parent as you prepare for a Boarding to ensure all their needs and expectations are met.  </h4>
+
+               <h2>Training</h2>
+                    <h3>Digital Training</h3>
+                         <h4>What is Digital Training? 
+ Digital Training is a 30-minute training service that occurs virtually, via video chat.  
+What happens during a Digital Training session? 
+ The sky's the limit! What happens and what is covered during a Digital Training session is up to you and the Pet Parent. Some Pet Caregivers find it useful to coordinate goals with the Pet Parent prior to the scheduled service.  
+When can a Training be booked? 
+ Training sessions are available between 8 AM and 8:30 PM, 7 days a week.  
+How many dogs are included in a Training session? 
+ Up to three pets can be included, however, Training sessions are intended for one pet.  
+Can Pet Parents book urgent or on-demand Training sessions? 
+ No, all Training sessions must be scheduled in advance.  
+How do I access the Digital Training session? 
+ You will access your Digital Training through the Wag! App via a video chat room.   
+Do I need to allow permissions on my device? 
+ Yes, you  will need to allow permissions for the following:  
+ 
+ Camera 
+ Microphone 
+ External Storage 
+ 
+What if I log into the Digital Training later than the scheduled time? -or- What if the Pet Parent is late? 
+ We highly recommend communicating with the Pet Parent through the app prior to your Digital Training session to coordinate an exact time you are both available to start. Once you start the video chat, the time clock cannot be paused or reset.   
+When does the 30 minutes start? 
+ The clock starts as soon as the Trainer enters the video chat. A timer will be displayed on screen during the training session to help keep track of time.   
+What happens if the Digital Training goes over the 30 minute limit? 
+ The video chat session will automatically disconnect at the 35 minute mark.  
+What if I or the Pet Parent have technical issues and get disconnected during the session? 
+ Once the timer starts on the session, it cannot be reset or paused. You may rejoin the video chat session if you are disconnected and pick up where you left off. If you or the Pet Parent have a prolonged disconnect that severely impacts the Digital Training session, please contact Customer Service via the "Help" tab in the app.   
+Can Pet Parents leave a tip? 
+ Absolutely! Once the Digital Training session has ended the Pet Parent will be given the opportunity to leave a tip through the Wag! App.  
+Do I need to leave a report card? 
+ Yes; you will leave you a report card for the Pet Parent in which you may want to include follow up notes, reminders, tips, or homework.  
+Can a Pet Parent rebook me directly for additional Training sessions? 
+ Yes; after your initial session, Pet Parents are able to book with you directly from the Wag! App. </h4>
+
+                    <h3>In-Home Training</h3>
+                         <h4>What is In-home Training? 
+ In-home Training is a 60-minute training service that occurs in-person, at the Pet Parent's home.  
+When can a Training be booked? 
+ Training sessions are available between 8 AM and 8:30 PM, 7 days a week.  
+Can Pet Parents book urgent or on-demand Training sessions? 
+ No, all Training sessions must be scheduled in advance.  
+How many dogs are included in a Training session? 
+ Up to three pets can be included, however, Training sessions are intended for one pet.  
+Are Pet Parents expected to participate in Training sessions? 
+ Training sessions are meant to be hands-on for Pet Parents, which provides an opportunity for them to learn how to correct or encourage behaviors with basic obedience techniques. This allows trainers to see the pets' normal routines and behaviors in a familiar setting and with familiar people.   
+How should I start a Training session? 
+ Because each lesson is unique, Pet Caregivers are encouraged to begin each session with an assessment of the Pet Parent’s needs and desired skills; these are then used to create an individualized plan for improvement using appropriate training methods.  
+Should I send anything to the Pet Parent before a Training session? 
+ Some Pet Caregivers find it valuable to send Pet Parents materials to review leading up to their Training sessions. Sending videos and photos both during and after the session can also help to mark the progress of both the pet and Pet Parent.  
+Can a Pet Parent rebook me directly for additional Training sessions? 
+ Yes; after your initial session, Pet Parents are able to book with you directly from the Wag! App.  
+  
+ NOTE: In-person Training sessions are only available in select markets. </h4>
+
+                    <h3>Drop-Ins</h3>
+                         <h4>What is a Drop-In? 
+ Drop-Ins are 20-minute-long services booked by Pet Parents who are looking for a Pet Caregiver to quickly check-in on their pet(s).  
+What do I do during a Drop-In? 
+ The Wag! and Walker Apps include Notes features for Pet Parents to include their expectations of the Drop-In prior to the Pet Caregiver accepting the service. As with any service, it's important to communicate with the Pet Parent if their expectations are unclear. You can communicate with the Pet Parent directly via the "Messages" tab in the Walker App.  
+How long is a Drop-In? 
+ Drop-Ins last 20 minutes.   
+What if the Pet Parent would like me to stay longer than 20 minutes? 
+ In the event a Pet Parent would like the Pet Caregiver to stay longer than 20 minutes, it is recommended the Pet Parent books a 30- or 60-minute Walk in the app, and leaves explicit instructions for the Pet Caregiver around the type of service they’d like their pup to receive. You can communicate with the Pet Parent directly via the "Messages" tab in the Walker App. </h4>
+
+               <h2>Drop-Ins</h2>
+          <h1>Home Access/Lockbox | Wag! Help Center</h1>
+               <h2>Ways to Access the Home</h2>
+                    <h3>Access Notes</h3>
+                         <h4>How do I access the Pet Parent's home? 
+ The most common home access method is a Wag! Lockbox, but Pet Parents might also use a non-Wag! branded lock box, place the key in a secure/hidden location, leave the key with a doorman, or indicate that someone is home. You be able to see the Access Notes once you've tapped "On My Way."  
+How do I view the Access Notes? 
+ Android: Tap the "key" icon near the bottom of your screen.  
+ iOS: Tap the "Notes & Access" notepad.  
+What if I can't access the home? 
+ After you have clicked “On My Way,” you'll be able to view the Access Notes. On occasion, a Pet Parent may have forgotten to provide their information. In this case, we recommend that you contact the Pet Parent via in-app chat. </h4>
+
+                    <h3>4-Digit Shurlok Brand</h3>
+                         <h4>4-Digit Wag! Lockbox Troubleshooting 
+ 
+ Make sure numbers are correct and lined up properly 
+ Try wiggling the side grooves, where you hold the lockbox to open the door 
+ Try tapping the back and bottom of the lockbox 
+ Use a key or other item to try and pry open the door — prying gently so as not to break the lockbox 
+ Contact the Pet Parent for additional home access information 
+</h4>
+
+                    <h3>3-Digit Master Lok Brand</h3>
+                         <h4>3-Digit Wag! Lockbox Troubleshooting 
+ 
+ Make sure numbers are correct and lined up properly 
+ Tap the back of the lockbox with the palm of your hand 
+ Add pressure to the door to close it tight immediately before you pull the door open 
+ Use a key or other item to try and pry open door — prying gently so as not to break the lockbox 
+ Contact the Pet Parent for additional home access information 
+</h4>
+
+          <h1>App Experience | Wag! Help Center</h1>
+               <h2>Feedback</h2>
+                    <h3>Submit Feedback</h3>
+                         <h4> To submit feedback about your app experience or to offer suggestions for features in the app, please visit this link using your mobile device. </h4>
+
+               <h2>Navigating the App</h2>
+                    <h3>Booked Services Feed</h3>
+                         <h4>What is the Booked Services Feed? 
+ The Booked Services Feed is simply a list of all the services for which you've been approved.  To get to your Booked Services Feed, open the Walker App and tap the calendar icon at the bottom of the screen. You can also click on individual services within this feed to see notes about the service or to contact the Pet Parent.   
+What if a service is cancelled? 
+ If a service is cancelled by the Pet Parent, you will see the word “Cancelled” to the right of the service. To remove a cancelled service from your Feed, simply swipe left on the service.   
+I requested a service but it’s not in my Booked Services Feed. Why? 
+ A service will not appear in your Booked Services Feed until you have been matched to the Pet Parent. This process typically takes no longer than 20 minutes. If you are not matched, the service will not show up in your Booked Services Feed. </h4>
+
+                    <h3>"On My Way!"</h3>
+                         <h4>What do I do once I clicked "On My Way!?" 
+ Once you have clicked "On My Way!," you will see various icons:  
+ 
+ Dog's Photo (iOS) / Dog Pin (Android): Click the dog’s photo to view his or her profile. This often includes information about the dog’s motivators, triggers and temperament. 
+ Notepad: Click the “Notepad” icon to find notes about the dog, from both the Pet Parent and past Pet Caregivers. For Pet Caregivers using an iOS device, you’ll also be able to view the home access information. 
+ Key Icon [Android Only]: Click the “Key” icon to find the home access information. 
+ Chat Icon: Click the text bubble to contact the Pet Parent or to visit the Help Center for troubleshooting advice and general guidance. 
+ Bell Icon: If you are in danger or have an urgent safety concern, click the red "Bell" icon to dial 911 or be connected to Wag!'s emergency line.   
+ Tap When Arrived: When you’ve arrived at the residence, click on “Tap When Arrived.” This will notify the pet parent that you’re at their home. 
+ 
+How do I update my arrival time? 
+ If you're running late and you're using an iOS device, you can update your ETA for an active service by tapping the "ETA" button in the top right corner of the screen. </h4>
+
+                    <h3>Wag! Intros</h3>
+                         <h4>What are Intros? 
+ Pet Caregivers can now reach out to new Wag! Pet Parents using the Wag! Intros feature! Browse local pets, send a personalized message to the Pet Parent, and get booked directly from the chat.  
+    
+How do I send a Wag! Intro? 
+ Navigate to the Wag! Intros tab in the main menu of the Walker App. Select "Browse Pups" and click on "Send a message" under the dog and Pet Parent with which you'd like to chat.   
+    
+What should I include in my message? 
+ Ultimately, it's up to you how you introduce yourself and your business to new Pet Parents. You'll be able to craft a fully-personalized message to new Pet Parents explaining why you're the perfect Caregiver for their pet. Remember: The Pet Parent will be able to book a service with you directly from the Intro chat, so be creative!   
+How far away are the Pet Parents that I can send Intros to? 
+ The default radius for Wag! Intros is 10 miles.  
+Is there a limit to how many Wag! Intros I can send? 
+ Yes, Wag! limits the number of Wag! Intros a Pet Caregiver can send to ten per day.  
+Does my Wag! Intro have to be a certain length? 
+ Yes, you will need to input a minimum of 200 characters before you can send the message.  
+What happens after I send my Intro? 
+ After your Intro is sent, the Pet Parent will be notified. They will then have the option to chat with you further or book a service with you directly.  
+Are Wag! Intros available on Android and iOS? 
+ Yes! The Wag! Intros feature is available on both Android and iOS devices.  
+Why are there “no new pups” near me? 
+ If your Wag! Intros tab indicates “no new pups,” there are currently no qualifying Pet Parents in your area. Check back often, as many Pet Parents join the Wag! platform every day! </h4>
+
+                    <h3>Pet Parent Service Requests</h3>
+                         <h4>Can Pet Parents send me requests? 
+ Yes, Pet Parents can choose to send a personalized request to one or more Pet Caregivers for a specific service. To view your Service Requests, "Services Requests" from the Main Menu of the Walker App. You will also receive a notification each time a Pet Parent would like to book with you directly.  
+ Note: A Service Request can be sent to one or more Pet Caregivers. In the event that multiple Pet Caregivers receive a request for the same service, the first Pet Caregiver to accept the Service Request will be matched with the Pet Parent.  
+Are personalized requests available for all Wag! services? 
+ No. Service Requests are currently only supported for scheduled walks. However, Pet Parents will have the opportunity to select from a list of available Pet Caregivers for Overnight Care using Pet Parent Match.  
+Where can I see Services Requests from Pet Parents? 
+ From the Main Menu of the Walker App, tap "Services Requests." You will also receive a notification each time a Pet Parent would like to book with you directly.  
+ Note: A Service Request can be sent to one or more Pet Caregivers. In the event that multiple Pet Caregivers receive a request for the same service, the first Pet Caregiver to accept the Service Request will be matched with the Pet Parent.  
+Can I suggest an alternate day or time for a Service Request? (Android Only) 
+ Yes; the app will prompt you to suggest an alternate schedule, which will automatically send a message to the Pet Parent. </h4>
+
+               <h2>Overnight Care</h2>
+                    <h3>Report Cards</h3>
+                         <h4> How do I complete a report card?  
+ Report cards are an important part of the Wag! experience for Pet Parents! Once your Walk is complete, the dog is safely back in the owner’s home, and the key has been returned, it’s time to fill out your report card!  
+ 
+ Choose a photo of the dog that you took during the Walk 
+ Write some notes to the owner about your Walk 
+ 
+ Check all the information that applies, including:  
+ 
+ Whether or not the pup went to the bathroom 
+ Confirmation that you locked the house when you left (and put the key back!)  
+ 
+How do I update a report card? 
+ Once a rating and the associated report card have been submitted, they cannot be changed. </h4>
+
+                    <h3>Before a Boarding</h3>
+                         <h4> How do I prepare for a Boarding?  
+ When hosting a dog in your home, it’s important to take precautions to make sure both you and the dog have an enjoyable experience! The most successful Boarders and Sitters ensure the following:  
+ 
+ The floor is free of anything that a dog could pick up 
+ There’s a place to put the dog’s food and water bowls 
+ There is a quiet area for the dog(s) away from distractions, if needed 
+ Hazards are put away and out of reach 
+ The home is secure, which includes closing windows, doors and gates 
+</h4>
+
+                    <h3>During a Boarding/Sitting</h3>
+                         <h4> What do I do during an Overnight Care appointment?  
+ It's important to ensure that the Pet Parent's expectations and dog's needs are met. The Wag! App allows you to communicate these expectations with the Pet Parent prior to and during the appointment. </h4>
+
+                    <h3>COVID-19 Cover Leniency</h3>
+                         <h4> Wag! takes the health and safety of the community seriously. Due to the circumstances surrounding COVID-19, Wag! is temporarily adjusting the cover policy to be more lenient, which will reduce the potential impact on your Pet Parent Favorability. Wag! would like to remind everyone using the Wag! platform to follow advice from public health officials and to prioritize your health and safety as well as that of everyone around you. </h4>
+
+                    <h3>Pet Parent Match</h3>
+                         <h4>What is Pet Parent Match? 
+ "Pet Parent Match" allows Pet Parents to choose a Pet Caregiver for Overnight Care appointments and recurring schedules based off available Pet Caregiver's profiles. In order for you to be chosen for a service with Pet Parent Match, you must opt-in to the service.  
+How will I know if I'm selected by the Pet Parent? 
+ You will receive a notification letting you know whether you've been selected for the service.  
+What are Pet Parents looking for when choosing a Pet Caregiver? 
+ Pet Parents may look at several factors when making their decision. The most common include:  
+ 
+ Distance 
+ Star Rating 
+ Reviews 
+ Experience or number of services completed 
+ 
+For what services is Pet Parent Match available? 
+ Pet Parents are allowed to choose their Pet Caregiver for Overnight Care and recurring schedules only.  
+If I am a Preferred Pet Caregiver, do I still receive Overnight Care requests first? 
+ Yes, if you are a Preferred Pet Caregiver, you will still be notified before other Pet Caregivers. Yourself and any other Preferred Pet Caregivers who have opted in will then be presented to the Pet Parent first.  
+I am a Preferred Pet Caregiver; why didn’t I get selected for the service? 
+ A Pet Parent may be presented with several available Pet Caregivers, including more than one Preferred Pet Caregiver. From there, they are able to select who they feel is the best fit for their pet. </h4>
+
+               <h2>Walker Notifications</h2>
+          <h1>My Account | Wag! Help Center</h1>
+               <h2>Account Changes</h2>
+          <h1>Dog Walking & Sitting Jobs | Wag!</h1>
+                    <h3>Notification FAQ</h3>
+                         <h4>What notifications should I expect to receive from Wag!? 
+ Wag! sends push notifications for services available near you, when you’ve received a tip, and promotions from the Marketing Team. SMS notifications are sent when you’ve booked a service, when you’re late for a service, and as confirmation that a cover has been submitted.   
+How do available service notifications work?  
+ When a schedule is requested by a Pet Parent, the service enters the feed and Wag! sends an initial batch of notifications to Pet Caregivers who are preferred for the service. After a couple minutes, if the schedule is still unfilled, a second batch of notifications is sent to the Pet Caregivers who are closest to the service location (based on the PCG’s Available Service Filter location settings). Next, if the service is still unfilled, an additional batch of notifications is sent to Pet Caregivers in the area, selected based on distance from service. This process continues until the service is filled.  
+Why are my notifications delayed? 
+ The Wag! system sends out notifications in real time. However, due to circumstances beyond our control such as carrier issues and signal strength there may be times notifications are delayed in getting to you. Make sure you have good signal strength. Delays in notifications may also occur on a device that is connected to WiFi.   
+Why am I not receiving push notifications? 
+ 
+ You are logged in to more than one device (Note: The most recently logged into device will receive the notifications.) Log out, then back in on the device you’d like to receive notifications on to reset your device token. 
+ There is low or no service availability in your area. This typically means you will also not see any services in your available service feed, either.  
+ Your Walker App notification settings are set to “off.” Update your notification settings on the Available Service Filters screen.  
+ Your phone's settings for push notifications are set to “off” or are disabled for the Wag! Walker app. Allow notifications from Wag! Walker in your device settings.  
+ 
+Why am I not receiving text notifications?  
+ As of January 2020, Wag! has discontinued SMS notifications for available walks and will be exclusively sending push notifications for these alerts. A few other reasons you could no longer be receiving text notifications include:   
+ 
+ Your notification settings are set to “off.”  
+ You blocked text notifications. Text the word "START" to 240-06 re-enable text messages from Wag!. 
+ 
+How do I update my notification settings?  
+ You can update what services you’d like to receive notifications about in your Available Service Filters, located in the top right corner of the Home screen. From here, you can turn off notifications completely, set your location and the distance from which you’d like to be notified of a service, adjust start times, and select service types.   
+How do I update or add an address? 
+ 
+ Tap on the Available Service Filters icon in the top right corner of the Home screen → 
+ Tap “Services Near” → 
+ Tap “+” in the bottom right corner (Android) or “+ Add Location” (iOS) → 
+ Name the location and enter the address (note: all location names must be unique) → 
+ Tap "Save." To edit an address, tap the green pencil icon next to the location you wish to edit (Android) / tap “Edit” under the address (iOS). 
+ 
+How do I turn off push notifications? 
+ 
+ Tap on the Available Service Filters icon in the top right corner of the Home screen → 
+ Set the Notification Alerts toggle to “off” → 
+ Tap “Save” 
+ 
+How do I turn off text notifications? 
+ To opt-out of text message notifications from Wag!, text “STOP” to 240-06. If you’d like to turn text notifications back on, text “START” to 240-06.  
+Why don’t I see any available services? 
+ There may not be any services available in your area, or your available service filters may be too narrow. Try expanding your filters, and refreshing the service feed by pulling down on the screen then releasing.  
+Why am I not being accepted for services? 
+ If you tap a push notification for an available service and the walk is not featured in your Available Service Feed or you were able to opt-in and were not approved, the service was unfortunately taken by another Pet Caregiver. </h4>
+
+                    <h3>Profile Picture & Bio</h3>
+                         <h4>How do I update my profile or my profile photo?  
+ You can update your profile from the Walker App.   
+ 
+ Tap on the main menu in the top left-hand corner of the Home Screen → 
+ Tap “View Profile”→ 
+ Tap "Edit Profile" → 
+ From here, you can update your Profile Photo, Catchphrase, About Me (bio), Address,Services, Home Info, Specialties, and images in your Gallery.  
+ Click “Save” → 
+ You’re all set! Your bio has been submitted for review and you will receive a push notification when your bio has been approved. The approval process can take up to 2 weeks.  
+ 
+ Note: If you are unable to save your submission, make sure that you have text in all required fields and attempt to save your submission again. Your bio must also be at least 150 characters.  
+Bio Guidelines 
+ Your bio should be a concise description of yourself and may not include any of the following:  
+ 
+  Personally identifiable information, including: 
+   
+   Full name 
+   Home address 
+   Any social media links 
+    
+ Any mention of an offer to perform services off the Wag! platform.  
+ Any inappropriate or offensive material/ content.  
+ Emojis. 
+ 
+ You will receive a notification when your profile photo or bio has been approved or rejected.  
+To update your profile picture: 
+ 
+ Tap on the main menu in the top left-hand corner of the Home Screen → 
+ Tap “View Profile”→ 
+ Tap "Edit Profile" → 
+ Tap the green camera icon on your photo → 
+ Read the "Photo Taking Tips" and tap "I've Read It" → 
+ Tap "Change Photo" and either "Take a Photo" or "Choose Existing Photo" → 
+ Click “Submit Photo” → 
+ You’re all set! Your photo has been submitted for review and you will receive a push notification when it's been approved. The approval process can take up to 2 weeks.  
+ 
+ Photo Guidelines   
+ Profile Photos should be a recognizable photo of yourself and may not include any of the following:  
+ 
+ Obstructions to the face such as sunglasses, phones, or filters 
+ People besides yourself 
+ A full body shot (ideal photos will include the entire face and shoulders) 
+ Poor quality lighting (grainy photos) 
+ Angles (ideal photos will be shot straight on) 
+ Any inappropriate or offensive material/content 
+ 
+ You will receive a notification when your profile photo or bio has been approved or rejected. </h4>
+
+                    <h3>Name Changes</h3>
+                         <h4>How do I change the name on my Pet Caregiver profile? 
+ To request a name change, please fill out this form. You will receive a confirmation email once we've received your request. Please allow up to 3 business days for your request to be fully processed.  </h4>
+
+                    <h3>Changing Your Password</h3>
+                         <h4>How do I reset my password? 
+ Your password must be reset from the Walker App. To reset your password, navigate to the Walker App login screen:  
+ 
+ Tap “Forgot your Password?” → 
+ Input the email address associated with your Wag! Walker account → 
+ Tap "Send" → 
+ You will receive an email with instructions on how to reset your password. 
+ 
+ If you do not receive the email within a few minutes, please confirm the email address submitted is correct and check your junk & spam folders. Click here for tips on creating strong passwords.  
+I can't log in after changing my password. 
+ If you are unable to login to your Walker Account after updating your password, please login here using your mobile device. </h4>
+
+                    <h3>Profile Status (Android Only)</h3>
+                         <h4>How do I update my status? 
+ 
+ Open the Main Menu from the top left corner of the Walker App → 
+ Tap "Available for Requests" → 
+ Select "Looking for Walks" or "Vacation" → 
+ Use the drop-down menu to choose when you would like your status to revert back to "Available for Requests" → 
+ Tap "Save" 
+ 
+What does setting my status change? 
+ Available for Requests (default): Indicates to Pet Parents that you're available for direct service requests.  
+ Looking for Walks: Indicates to Wag! & Pet Parents that you're actively looking and readily available for more services.  
+ Vacation: Indicates to Pet Parents that you're not available for direct service requests. You will still receive notifications for services available near you. </h4>
+
+                    <h3>Photo Gallery</h3>
+                         <h4> How do I upload a photo to my gallery?   
+ 
+ Tap on your profile photo in the Main Menu of the Walker App → 
+ Tap "Edit Profile" → 
+ Scroll to "Gallery" and tap "Edit" → 
+ Tap the camera icon or "Add Photos" → 
+ Either "Take Photo" or "Choose Existing Photo" → 
+ Tap and hold photos to rearrange their order → 
+ Tap "Save" (only necessary if you've re-ordered your photos) 
+ 
+ How do I delete a photo from my gallery?   
+ 
+ Tap on your profile photo in the Main Menu of the Walker App → 
+ Tap "Edit Profile" → 
+ Scroll to "Gallery" and tap "Edit" → 
+ Tap "Select" and tap the photos you'd like to delete → 
+ Tap "Delete" 
+ 
+ How do I reorder my photos? (Android Only)  
+ 
+ Tap on your profile photo in the Main Menu of the Walker App → 
+ Tap "Edit Profile" → 
+ Scroll to "Gallery" → 
+ Tap and hold photos to rearrange their order → 
+ Tap "Save" 
+ 
+ What’s the difference between the photo gallery and in-app media gallery?   
+ Your in-app media gallery (Walker app sidebar → Media Gallery) stores all the photos of pups that you’ve uploaded to various report cards after completing a service. This is private to you.   
+ Your photo gallery is a curated collection of photos that you want new Pet Parents to see! This is public and accessible to anyone who views your public Walker Profile. </h4>
+
+                    <h3>Average Star Rating</h3>
+                         <h4> What is a Pet Caregiver star rating?   
+ Each Pet Caregiver earns an average star rating based on reviews provided by Pet Parents. Your average star rating is the sum of all the ratings you’ve received divided by your total number of ratings.   
+ You can view your star rating at any time by navigating to your profile. The number on the left is your average star rating. In parentheses, you'll see your number of reviews.  
+   
+ Note: Your star rating is not the same as your Pet Parent Favorability, however your star rating is one factor that goes into determining your overall Pet Parent Favorability.  </h4>
+
+                    <h3>Pet Parent Favorability</h3>
+                         <h4>What is Pet Parent Favorability? 
+ A Pet Caregiver’s Pet Parent Favorability is simply how valuable the Pet Caregiver’s services are to a Pet Parent. A number of factors are applied to determine a Pet Caregiver’s Pet Parent Favorability, all of which can be found within the Wag! Community Guidelines.  
+For what is Pet Parent Favorability used? 
+ Pet Parent Favorability is used to find the perfect Pet Caregiver for each pet care task scheduled using the Wag! platform.   
+How do I increase my Pet Parent Favorability? 
+ Pet Parents expect services to be completed with care and attention to detail. Your reliability (including timeliness and commitment) also affects the Pet Parent’s experience and therefore your Pet Parent Favorability. The strength of your profile is another factor; the more complete and thorough your profile is, the more valuable your profile will be to Pet Parents looking to book pet care services.   
+ The Wag! Community Guidelines are the framework for Pet Parent Favorability and are in place to help facilitate a community-wide understanding of expectations and standards of conduct while using Wag!. Ultimately, following and exemplifying Wag!’s Community Guidelines makes your services more valuable to the Pet Parent’s using Wag!. For additional information as to how Pet Parent Favorability is determined, you may revisit the Wag! Community Guidelines. </h4>
+
+                    <h3>Badges</h3>
+                         <h4>What are badges? 
+ Pet Caregivers can earn badges on their Profiles for completing services on the Wag! platform! Pet Parents can also award badges for outstanding service.  
+What badges can I receive and how do I receive them? 
+  
+  
+The following badges are awarded by Pet Parents after a service: 
+    
+Why haven't my badges updated? 
+ Your badges will update automatically after you complete your next service. </h4>
+
+                    <h3>Wag! Pet Caregiver Deactivation Policy</h3>
+                         <h4> Pet Caregivers who have an average star rating below 4.75 will be subject to deactivation. Star rating and other factors are detailed in the Pet Care Provider Platform Use Agreement signed by each Pet Caregiver. Pet Caregivers who violate the agreement or Wag!’s Community Guidelines may be subject to deactivation. The Deactivation Policy also states that Pet Caregiver accounts may be subject to suspension during the time Wag! takes to investigate a possible violation.  
+Can I appeal a deactivation if my rating falls below 4.75? 
+ No. Deactivations due to low star rating are not eligible for appeal.  
+Why does Wag! have a deactivation policy? 
+ Wag! is dedicated to creating and maintaining a safe community for the Pet Caregivers and Pet Parents on the platform. To help ensure a safe experience for everyone, we rely on each community member to abide by the Wag! Community Guidelines as well as our Pet Care Provider Platform User Agreement. The five star rating system is one of the ways Wag! leverages community feedback to help create and maintain a safe and reliable community.  
+How can I check my standing to ensure I’m not subject to deactivation? 
+ You can see your star rating in the “My Profile” section of the Wag! application. Pet caregivers will be notified via email if they are at risk for deactivation due to low star rating. Once a Pet Caregiver receives this notice, they will have 30 days to improve. They will also receive a second update email after 14 days informing them of their progress.  
+What if I did not receive a warning email? 
+ Please check your spam folders and ensure that the email address associated with your Wag! account is still active.  
+What if I am not available to do any walks in the 30-day warning period? Can I request an extension? 
+ Wag! gives all Pet Caregivers 30 days to meet community standards. Pet Caregivers will not be granted an extension if they are unable to or choose not to participate in services with Wag!.  
+How many times can my star rating drop below 4.75? 
+ None. Once a Pet Caregiver's star rating falls below 4.75, they are subject to deactivation.  
+If I'm deactivated, will I still be paid for past completed walks? 
+ Yes. Any successfully completed services will be paid out, regardless of whether the Pet Care Provider is subject to deactivation or has been deactivated.  
+If I'm deactivated, can I reapply? 
+ No. Once a Pet Caregiver is deactivated for falling below the set criteria or is deactivated for a Community Guidelines violation, they will not not be allowed to re-apply as a Pet Caregiver on the Wag! platform.  
+Are Pet Parents subject to these same standards? 
+ This Deactivation Policy is based on criteria specific to Pet Caregivers. Pet Parents can be deactivated from the Wag! platform if they violate Wag!’s Terms of Service, which includes the Wag! Community Guidelines.  
+What if I'm a new Pet Caregiver? 
+ Pet Caregivers must complete at least ten services on the Wag! platform to be subject to this policy. </h4>
+
+                    <h3>After a Boarding/Sitting</h3>
+                         <h4> Do I need to complete a report card for Boardings and Sittings?  
+ Report cards are an important part of the Wag! experience for Pet Parents! After the Boarding or Sitting is complete, you’ll be prompted to fill out a final report card for the service. Pet Parents love to get notes about their dog’s experience!  
+What's included in a Boarding and Sitting report card? 
+ 
+ A photo of the dog you took during the service 
+ Notes written for the Pet Parent about the service 
+ Indication whether the pup regularly peed & pooed 
+ Confirmation that you locked the home and returned the key (if applicable) 
+ 
+How do I edit/change my report card? 
+ Once a report card has been submitted, it cannot be changed. </h4>
+
+               <h2>Payments/Finance</h2>
+                    <h3>Payments & Stripe Connect</h3>
+                         <h4>How much do I get paid? 
+ The payment for each service is listed under the service in the Available Walks Feed. You receive the posted amount plus 100% of any tips you receive from Pet Parents.  
+When do I get paid? 
+ Payments are processed every Wednesday and paid out every Friday. The pay cycle is Tuesday through Monday, so for all walks completed on or after Tuesday, the payment will appear in the following pay cycle. If you'd like to receive a payment sooner (and you're eligible), you can utilize the Instant Pay feature via the "Earnings" tab in the Walker App.  
+How do tips work? 
+ Pet Caregivers receive 100% of any tips they receive from Pet Parents. Pre-set tips can be adjusted after completion of the service based on the satisfaction of the Pet Parent. Please note that setting pre-set tips is a temporary function due to the circumstances surrounding COVID-19. Tips are not guaranteed.  
+What is Stripe Connect? 
+ Stripe Connect is the platform that allows Pet Caregivers to be paid for the services they offer on Wag!.  
+How do I set up Stripe Connect? 
+ When you log in to the Wag! App for the first time, you will be prompted to set up a new Stripe Connect account. To set up your Stripe account:  
+ 
+ After your application is approved, you’ll receive an email from Wag! that will prompt you to download the Pet Caregiver app. Tap on the link to download the app → 
+ Create a password → 
+ Download and Install the Wag! Pet Caregiver app → 
+ Tap on the Wag! Pet Caregiver app icon to open it → 
+   
+   If you are on iOS, you’ll need to trust the app first. Go to iOS Settings > General > Device Management > Tap "WAG LABS INC." in the Enterprise App section > Tap "Trust" > Tap "Confirm." 
+    
+ Log in. You’ll see a prompt to set up a new Stripe Connect account → 
+ Confirm that your email address and phone number are correct → 
+ Verify your phone number → 
+ Fill out your banking information, using the info for the account through which you wish to receive payments. 
+ 
+Troubleshooting Stripe 
+ If you are having trouble adding your info to Stripe in the Pet Caregiver App, you can access your Stripe account directly by navigating to one of the following links on a web browser:   
+ 
+ New Accounts (create a new Stripe Connect account) 
+ Existing Accounts (edit your Stripe Connect account / verify your information) 
+ 
+How do pay periods work? 
+ A pay period starts on a Tuesday and ends the following Monday. Earnings accrued during that pay period will be paid out to your bank account on the following Friday (4 days after the pay period ends). You may also be eligible for Instant Pay!  
+How do I change my banking information in Stripe Connect? 
+ 
+ In the Walker App, go to the "Earnings" screen → 
+ Tap the three dots in the upper right corner → 
+ Tap "Sign into Stripe" → 
+ You’ll then be taken directly to your stripe.com dashboard, where you can edit your personal and banking information.  
+ 
+How can I see a list of all the payments to my bank account? 
+ In the Pet Caregiver app, go to the "Earnings" screen, tap the three dots in the upper right corner, then tap "Sign into Stripe." You’ll then be taken directly to your stripe.com dashboard, where you can view your payment history.  
+I'm not able to log in to Stripe or I'm getting a Stripe error message; what should I do? 
+ Please contact the Stripe support team here.  
+Why does my Stripe Connect Dashboard read $0 balance even though the Walker App says I have a positive balance? 
+ The "Earnings" screen in the Walker App always reflects the most recent and updated information. The Stripe Connect Dashboard will read $0 balance until Wednesday, right after the pay period closes. After the payment has reached your bank account, the Dashboard will reset back to $0. If at any point in the pay period you'd like to check the amount of your next payment, please visit the "Earnings" screen in the Walker App. </h4>
+
+                    <h3>2020 Tax Document e-Delivery</h3>
+                         <h4>Am I eligible to receive a 1099? 
+ To be eligible to receive a 1099, Pet Caregivers must have used Wag! to earn at least $600 in the 2020 calendar year. You can see your income from 2020 in the Walker App:  
+ 
+ From the home screen, tap “Earnings” → 
+ Tap "View past payments" → 
+ Tap “Completed by year” 
+ 
+How do I receive my 1099? 
+ If you're eligible to receive a 1099, it will be available by or before February 1st, 2021. Once it’s available, you can access it via the Walker App:  
+ 
+ From the home screen, tap “Earnings” → 
+ Tap "View past payments" → 
+ Tap “Email me my 2020 1099” → 
+ Tap “Okay” 
+ 
+What is 1099 e-Delivery? 
+ 1099 e-Delivery allows you to receive your 1099 electronically via a link sent to your email. You will be required to complete the e-Delivery consent before you can receive a 1099 electronically. You will not receive a copy by mail if you opt in to e-Delivery.  
+Why do I have to consent to receive my 1099 electronically? 
+ By default, tax documents are physically mailed. If you would like to receive your 1099 electronically instead, your consent is required.  
+Do I have to utilize e-Delivery to receive my 1099? 
+ No. e-Delivery of your tax documents is optional. If you do not opt-in for e-Delivery, your 1099 will be mailed to you.  
+How do I sign up for e-Delivery? 
+ Eligible Pet Caregivers will receive an email regarding e-Delivery consent. Follow the link in the email and you will be taken to a page where you may opt in or opt out of e-Delivery. If you opt out of e-Delivery, your 1099 will be physically mailed.  
+When can I view my 1099 for the year 2020? 
+ 1099s are required to be delivered electronically or postmarked by January 31st, 2021. You will not receive a 1099 if you are ineligible.  
+Why don’t I have the option to receive my 1099 electronically? 
+ If you are eligible to receive a 1099, you are eligible to opt-in for e-Delivery. If you are not eligible to receive a 1099, you will not be able to opt-in for e-Delivery.  
+ Note: Once you tap “Okay,” you will receive an email with a link to your 1099. The link to access your 1099 expires after 10 minutes. If your link has expired, repeat the steps above to receive a new link.   
+What do I do if my 1099 link has expired? 
+ To request a new link from the Walker App:  
+ 
+ From the home screen, tap “Earnings” → 
+ Tap "View past payments" → 
+ Tap “Email me my 2020 1099” → 
+ Tap “Okay” 
+ 
+I do not consent to e-Delivery. How will I receive my 1099? 
+ Your 1099 will be physically mailed to the address associated with your Stripe account. Your 1099 is required to be postmarked by January 31, 2021.  
+I signed up for e-Delivery but changed my mind; what do I do? 
+ If you opted in to receive your 1099 electronically, but would now like it to be mailed to your physical address, please email woofsupport@wagwalking.com with the subject line “Revoke 1099 e-Delivery Consent.”  
+Can I request a 1099 be sent if I made less than $600? 
+ No. 1099 tax documents are only produced for Pet Caregivers earning $600 or more for the year. You can see your income from 2020 in the Walker App:  
+ 
+ From the home screen, tap “Earnings” → 
+ Tap "View past payments" → 
+ Tap “Completed by year” 
+ 
+If I am not eligible to receive a 1099, how do I verify my income for the year? 
+ You can see your income from 2020 in the Walker App:  
+ 
+ Open the main menu in the top right corner of the Home Screen → 
+ Tap “Payments” → 
+ Tap “Completed by year” 
+</h4>
+
+                    <h3>Stripe Connect Troubleshooting</h3>
+                         <h4> If you are experiencing issues and/or crashes while attempting to access Stripe Connect in the Wag! Walker App, please navigate to the applicable URL below from your mobile device to complete the flow:  
+ 
+ Access an account (edit your existing Stripe Connect account / verify your information) 
+ Create an account (create a new Stripe Connect account if you haven't set one up already with Wag!) 
+ 
+ You will need to sign in with your Wag! Walker credentials to create and/or access your Stripe Connect account. If you're still experiencing issues, visit Stripe's Help Center, or contact them directly.  
+ * Note, you cannot sign into Stripe directly with your Wag! credentials, so you will either need to access Stripe via the app or from the link above. </h4>
+
+                    <h3>Instant Pay</h3>
+                         <h4>What is Instant Pay? How quickly can I get my payment? 
+ Instant Pay allows eligible Pet Caregivers to instantly send money they’ve earned using the Wag! platform to an eligible debit card. A payment initiated with Instant Pay typically appears in the associated account within 30 minutes, but may take longer depending on your bank’s processing time. A 3% fee is deducted from each Instant Payment.  
+ Note: Payments are reviewed, which may result in delays or funds being frozen or removed from your account. The standard weekly payment is still available for no fee.   
+Am I required to use Instant Pay? 
+ No. If you choose not to initiate Instant Pay, you will receive standard weekly payments, which are processed every Tuesday and paid out every Friday.  
+How do I sign up for Instant Pay? 
+ You do not need to sign up for Instant Pay; you will, however, need to add a debit card to your Stripe account to use Instant Pay.   
+ Note: Adding a debit card to your Stripe account will default Stripe Instant Pay AND weekly payments to that debit card. To have your weekly payouts sent to your bank account, you need to have only ONE debit card and ONE bank account set up in Stripe. Pre-paid debit cards are not supported at this time.   
+Is there a fee for Instant Pay? 
+ The Instant Pay fee is 3% of the eligible payment amount, with a minimum fee of $1.99 and a minimum total payout of more than $1 (your "total payout" is the amount earned minus the Instant Pay fee). You will be able to view your “Total Payment” (the amount of money eligible for Instant Pay minus the fee) before requesting to initiate Instant Pay.   
+ Note: Payments are reviewed, which may result in delays or funds being frozen or removed from your account. Your standard weekly payment is still available for no fee.   
+Am I eligible to use Instant Pay? 
+ To be eligible for Instant Pay on the Wag! platform, Pet Caregivers must (1) have been activated on the Wag! platform at least 30 days prior to the payment initiation, (2) completed at least 10 services via the Wag! platform, and (3) have successfully received at least one standard weekly payment through Stripe. Additionally, Pet Caregivers must be in good standing on the Wag! platform (not suspended or deactivated). Instant Pay requests can be initiated for amounts greater than the minimum fee amount ($1.99) to an eligible debit card on the Pet Caregiver's Stripe account.  
+I didn’t see my payment immediately, what should I do? 
+ When you successfully initiate an Instant Pay transaction, the status “Processing” will be displayed next to the Instant Pay symbol in the "Payments" screen on your app. When the transaction is successful, the status will be updated to “Completed.” If it has not been updated to “Completed” within 30 minutes, please be patient, as bank processing times may vary. If the transaction is marked as “Completed,” but you do not see the money appear in your account, please contact your bank.  
+ When contacting your bank about a payment sent to your debit card, please note that money will appear as an original credit transaction (OCT), not an ACH or direct deposit.  
+ Note: Payments are reviewed, which may result in delays or funds being frozen or removed from your account.  
+When can I initiate instant pay? 
+ Instant payments can be initiated 24 hours a day, 365 days a year.  
+Why do standard weekly payments arrive slower than Instant Payments? 
+ Standard weekly payments are processed using ACH bank processing, which typically takes 1-3 business days to appear in your account. Instant Pay is processed using a debit card, which allows the money to appear in your account more quickly.  
+ Note: Payments are reviewed, which may result in delays or funds being frozen or removed from your account.  
+How do I know if my debit card is eligible for Instant Pay? 
+ Most debit cards from major banks are supported, and more bank debit cards are being added over time. Please contact Stripe if you have a question about whether your debit card is supported.  
+Why is the eligible Instant Pay amount different from the displayed standard weekly amount? 
+ A pay period starts on a Tuesday and ends the following Monday. Earnings accrued during that pay period will be transferred to your bank account on the following Friday (4 days after the pay period ends). Instant Pay can include funds outside of a standard pay period. You will be able to keep track of what services are included in a payment (whether a standard weekly payment or an Instant Payment) via the "Past Payments" screen in the Walker App. </h4>
+
+                    <h3>Cancellation Fees</h3>
+                         <h4>Will I receive a cancellation fee? 
+ 
+ You will only receive a cancellation fee for a cancelled Walk or Drop-In if the Pet Parent cancels the service less than 1 hour before the scheduled Start Time and you have already hit “On My Way.” 
+ You will only receive a cancellation fee for Overnight Care (Sitting or Boarding) or In-Home Training if the Pet Parent cancels less than 24 hours before the scheduled Start Time. 
+ There are currently no cancellation fees issued for Digital Training Services. 
+</h4>
+
+                    <h3>Deactivate My Account</h3>
+                         <h4> To deactivate your Pet Caregiver Account, click here.  
+ If you have any services that need to be covered as a result of your wish to deactivate, please submit a cover request here. </h4>
+
+                    <h3>Payment Discrepancies</h3>
+                         <h4> When is the pay cycle?  
+ The pay cycle is Tuesday through Monday and payments are issued on Friday. For all walks completed on or after Tuesday, payment will appear in the following pay cycle.  
+ What do I do if I'm missing a payment or a tip?  
+ If there are any issues with your payments, please submit a Payment Discrepancy form. If you do not know the Walk ID, enter "0."  
+ The service was for multiple pets, but I was only paid for one; how do I get this corrected?  
+ If you completed a service for two dogs but believe you were only paid for one, please submit a Payment Discrepancy form. If you do not know the Walk ID, enter "0." </h4>
+
+               <h2>More About the App</h2>
+                    <h3>Increasing your Profile Strength</h3>
+                         <h4> How do I increase my Profile strength?  
+ Your profile strength score represents how thorough your profile is, which may affect how likely you are to attract new pet parents.  To increase the strength of your profile:  
+ 
+ Set your profile to "public" so you can share it with potential Pet Parents 
+ Keep your status up-to-date (Android only) 
+ Update the services for which you're available 
+ Update your Catchphrase 
+ Update or verify your Specialties and Home Info 
+ Include photos in your Photo Gallery 
+</h4>
+
+                    <h3>Incident Resolution Guidelines</h3>
+                         <h4>  </h4>
+
+                    <h3>Recommendations</h3>
+                         <h4>What are Recommendations? 
+ Recommendations are written statements from Pet Parents (friends, family, previous clients, etc.) that appear on your public Walker Profile. The more Recommendations you earn, the higher your Walker Score will be!  
+How do I request Recommendations? 
+ From the Main Menu of the Walker App, select the “Recommendations” Tab, or from "My Profile," scroll down to the “Recommendations” tab. From here, you can send an in-app message to previous Wag! clients or a text message to your contacts asking for their Recommendation. Be sure the Pet Parent is using their mobile device and the most up to date version of the Wag! App.  
+    
+How does a Recommendation affect my Pet Parent Favorability? 
+ Every Recommendation you receive positively affects your Pet Parent Favorability. The more Recommendations you have, the higher your Favorability will be. The number of Recommendations you receive will also be reflected on your public profile for Pet Parents to see.  
+How many Recommendations can I have? How many can I request? 
+ You can request as many Recommendations as you’d like. There is also no limit to the amount of Recommendations you have on your profile.  
+Are my Recommenders required to create a Wag! account? 
+ Yes; an account is required to verify the person's identity and prevent fraudulent Recommendations. </h4>
+
+                    <h3>Promoting your Profile</h3>
+                         <h4>How do I promote my profile? 
+ Everything you need to get started is now available in the Walker App. From the home screen:  
+ 
+ Open the Main Menu in the top left corner → 
+ Tap "My Profile" → 
+ Tap "Promote" 
+ 
+ From here, you'll be able to share your profile to several popular social platforms or you can tap "Copy link to your profile" to copy a sharable link to your public profile. Pet Parents can book you directly from this link and you'll automatically be listed as their Preferred Walker. You'll also receive a $20 Referral Award once the Pet Parent has completed their first fully paid service!  
+ NOTE: Please be aware that these are third party platforms for which Wag! is not responsible. Third party platforms have their own terms of use, privacy policies and other rules and guidelines, which may change over time and which users should independently review.      
+Nextdoor 
+ Nextdoor is a social platform centered around neighborhood communities. Many users use their platform to recommend and discover local businesses.   
+ You can create an account as an individual or as a “Neighbor for hire”. Nextdoor has restrictions on promoting your business with an individual account, so if you choose to join as an individual, make sure to follow their promotion rules listed here.   
+ If you choose to create an account as a “Neighbor for hire”, neighbors will be able to easily find you when they search for pet caregiver services. They can also recommend you, which will allow other members to find your Business page in the Nextdoor Businesses section. Information about what you can and cannot post from your Business page can be found here.   
+Craigslist 
+ For detailed information on how to promote your business on Craigslist, click here.  
+ Craigslist is a web-based advertising platform. Users can search for items, services, housing, etc. Individuals may create posts for free with or without an account. Information about posting without an account can be found here.   
+ While most Craigslist postings are free, there are a few scenarios in which you may be asked to pay a fee.  
+Google My Business 
+ Google My Business is an accessible business promotion tool which allows users to promote their website/business on Google Search and Google Maps.   
+ When users create a Business profile, they can link directly to their online Wag! profile. Business profiles also give users an online presence so that potential clients can search for their business on Google. More information can be found here.  
+Google Ads 
+ While Google My Business is an accessible platform that allows users to list their business on Maps and Google Search, Google Ads is a paid advertising platform that can attract more visitors and new clients to their Google My Business website or public Wag! profile.   
+ Google Ads can display your ad when people search online for services like dog walking, sitting and boarding. Generally you will only pay when users engage with your ad.   
+ Information about advertising with Google can be found here.   
+Other Promotional Materials 
+ Many Pet Caregivers create and personalize printable flyers that they post around their neighborhood. They also post unprinted, PDF versions of their flyer online.   
+ By navigating to your profile, and then tapping “Promote,” “Promotional Materials,” and “Download Flyers,” Pet Caregivers can choose to get an email with a PDF of a sample flyer. Feel free to personalize the flyer however you like to promote your own business! </h4>
+
+                    <h3>Pet Caregiver Profile FAQ</h3>
+                         <h4>What does it mean for my profile to be “public”? 
+ With the newest update to Pet Caregiver profiles, you have the ability to copy the link to your profile and share it online or with family and friends! Anyone with your profile link will be able to view your profile online even if they aren’t currently on the Wag! platform.   
+I don’t want my profile to be public. How do I make it private?  
+ You can make your profile “private” at any time. Open your walker app and navigate to “settings”, then toggle the “public profile” setting to “off”. Keep in mind that if your profile is private, Pet Parents will not be able to book you directly through your profile for a referral bonus, and you won’t have the ability to share your profile online.   
+What is a catchphrase? 
+ Your personal catchphrase is an option for you to briefly introduce who you are as a Pet Caregiver and adds a personal touch to your profile. It’s one of the first things Pet Parents will see when viewing your profile. Catchphrases have a 50 character minimum.   
+Why were my profile edits rejected? 
+ Our automatic filters have detected one of the following types of content that either include profanity or your personal information:   
+ 
+ Profane language 
+ Email address 
+ Phone number 
+ Website  
+ Social media reference 
+ 
+ If you think your profile edits were rejected in error, please contact customer success. Please adhere to our community guidelines (https://wagwalking.com/community-guidelines/).  
+Why is my catchphrase/bio “pending”? 
+ If your catchphrase/bio is marked as “pending”, our automatic filters may have detected potential profanity or personal information such as your phone number or email address. If you think there is an error, please contact customer success. Please adhere to our community guidelines (https://wagwalking.com/community-guidelines/).  
+I’m an Android user and I am not able to update my profile. What should I do? 
+ If you are getting an error when updating your profile, it may be due to a system font conflict.   
+ To update the font:  
+ 
+ Navigate to your phone's Settings → 
+ Tap "Display" → 
+ Tap "Font Size and Style" → 
+ Adjust font size to "default" (third dot from the left) 
+ 
+ Once complete, try updating your profile again.  
+I referred a pet parent through my profile. Why didn’t I receive a referral bonus? 
+ In order to receive a referral bonus, the Pet Parent must sign up through your profile and complete their first paid walk.   
+ If they have completed a paid walk and you still haven’t received the bonus, please reach out to our customer success team for support.  
+A Pet Parent booked me through my profile. Why did they match with a different walker? 
+ When a Pet Parent books you through your profile, you will be added to their preferred walker list. This gives you, and other preferred walkers for that Pet Parent, first priority for services where the pet parent specifies “try preferred” as their walker preference.  
+ The most likely reason you did not match with the Pet Parent is another pet caregiver requested for the walk before you.   
+How can I promote my profile online?  
+ If you’d like to promote your profile online, you can copy your profile link from within the walker app. Click “promote”, then “copy link to my profile”. You can post your link online, or you can send it directly to friends via SMS, email, and more! Click here for more info.  
+How do I increase my profile strength? 
+ For info on profile strength, click here. </h4>
+
+                    <h3>Available Service Filters</h3>
+                         <h4>What notifications should I expect to receive from Wag!? 
+ Wag! sends push notifications for services available near you, when you’ve received a tip, and promotions from the Marketing Team. SMS notifications are sent when you’ve booked a service, when you’re late for a service, and as confirmation that a cover has been submitted.   
+How do available service notifications work?  
+ When a schedule is requested by a Pet Parent, the service enters the feed and Wag! sends an initial batch of notifications to Pet Caregivers who are preferred for the service. After a couple minutes, if the schedule is still unfilled, a second batch of notifications is sent to the Pet Caregivers who are closest to the service location (based on the PCG’s Available Service Filter location settings). Next, if the service is still unfilled, an additional batch of notifications is sent to Pet Caregivers in the area, selected based on distance from service. This process continues until the service is filled.  
+Why are my notifications delayed? 
+ The Wag! system sends out notifications in real time. However, due to circumstances beyond our control such as carrier issues and signal strength there may be times notifications are delayed in getting to you. Make sure you have good signal strength. Delays in notifications may also occur on a device that is connected to WiFi.   
+Why am I not receiving push notifications? 
+ 
+ You are logged in to more than one device (Note: The most recently logged into device will receive the notifications.) Log out, then back in on the device you’d like to receive notifications on to reset your device token. 
+ There is low or no service availability in your area. This typically means you will also not see any services in your available service feed, either.  
+ Your Walker App notification settings are set to “off.” Update your notification settings on the Available Service Filters screen.  
+ Your phone's settings for push notifications are set to “off” or are disabled for the Wag! Walker app. Allow notifications from Wag! Walker in your device settings.  
+ 
+Why am I not receiving text notifications?  
+ As of January 2020, Wag! has discontinued SMS notifications for available walks and will be exclusively sending push notifications for these alerts. A few other reasons you could no longer be receiving text notifications include:   
+ 
+ Your notification settings are set to “off.”  
+ You blocked text notifications. Text the word "START" to 240-06 re-enable text messages from Wag!. 
+ 
+How do I update my notification settings?  
+ You can update what services you’d like to receive notifications about in your Available Service Filters, located in the top right corner of the Home screen. From here, you can turn off notifications completely, set your location and the distance from which you’d like to be notified of a service, adjust start times, and select service types.   
+How do I update or add an address? 
+ 
+ Tap on the Available Service Filters icon in the top right corner of the Home screen → 
+ Tap “Services Near” → 
+ Tap “+” in the bottom right corner (Android) or “+ Add Location” (iOS) → 
+ Name the location and enter the address (note: all location names must be unique) → 
+ Tap "Save." To edit an address, tap the green pencil icon next to the location you wish to edit (Android) / tap “Edit” under the address (iOS). 
+ 
+How do I turn off push notifications? 
+ 
+ Tap on the Available Service Filters icon in the top right corner of the Home screen → 
+ Set the Notification Alerts toggle to “off” → 
+ Tap “Save” 
+ 
+How do I turn off text notifications? 
+ To opt-out of text message notifications from Wag!, text “STOP” to 240-06. If you’d like to turn text notifications back on, text “START” to 240-06.  
+Why don’t I see any available services? 
+ There may not be any services available in your area, or your available service filters may be too narrow. Try expanding your filters, and refreshing the service feed by pulling down on the screen then releasing.  
+Why am I not being accepted for services? 
+ If you tap a push notification for an available service and the walk is not featured in your Available Service Feed or you were able to opt-in and were not approved, the service was unfortunately taken by another Pet Caregiver. </h4>
+
+                    <h3>Pet Parent Review Disputes</h3>
+                         <h4>How do I dispute a review? 
+ If you believe a Pet Parent's review to be irrelevant or inappropriate, you may submit a review dispute here. Please keep in mind the following when submitting your dispute:  
+ 
+ Wag! is committed to providing a public forum for Pet Parents and reviews are a way everyone can share their genuine, first-hand experiences with their Pet Caregivers 
+ In rare cases, we may remove certain reviews that are found to be false, inappropriate, or irrelevant 
+ Reviews older than 30 days cannot be disputed.  
+</h4>
+
+                    <h3>Promoting your Business on craigslist</h3>
+                         <h4> With Promote with craigslist, it's easier than ever to spread the word about your Wag! pet care business. When you post your personalized listing, Pet Parents in your area can sign up through your profile and book you directly!  
+ The Promote with craigslist feature generates custom HTML which is then used to format your post, crafted from information already on your Wag! profile. All you have to do is copy and paste that HTML into your craigslist listing, and you're ready to post!  
+ 
+Generating your Personalized craigslist Ad 
+ 
+ Open the Main Menu from the top left of the Home Screen → 
+ Tap "Promote" → 
+ Tap "Generate craigslist Ad" → 
+ Tap "Create my ad" 
+ 
+ You'll receive an email with your custom HTML and next steps. If you did not receive an email, please check your junk / spam folders.  
+      
+ 
+Posting on craigslist 
+ 
+ Navigate to https://post.craigslist.org and select your city → 
+ Select "Service offered," then choose "pet services" → 
+ Sign in or create a craigslist account → 
+ Create your posting title. craigslist recommends keeping your title simple and concise, and to use keywords (Ex. "Local Dog Walker & Sitter in San Francisco") → 
+ Copy and paste the HTML from Wag!'s email into the description box → 
+ Add your city & postal code, contact info → 
+ Tap "Post" or "Submit" 
+</h4>
+
+          <h1>Additional Questions | Wag! Help Center</h1>
+               <h2>Helpful Resources</h2>
+                    <h3>Wag! the Vote</h3>
+                         <h4>What is "Wag! the Vote?" 
+ "Wag! the Vote" is Wag!'s effort to make voting as easy as possible for Pet Parents. Pet Parents will receive 20-minute walks for as little as $10. Pet Caregiver payouts will not be affected.  
+Will the standard payout for services be affected? 
+ No. Pet Caregivers will still see and receive the standard payouts for services.  
+How long will the campaign last? 
+ The "Wag! the Vote" campaign will run October 23rd through November 4th.  
+  </h4>
+
+                    <h3>Troubleshooting the App</h3>
+                         <h4>What do I do if my app is frozen or doesn't appear to be working? 
+ Most app issues can be resolved by making sure your app is up-to-date. To install the most recent version of the Wag! app, click here. Your device may also need to be updated to the most recent version of Android or Apple iOS. Since the Wag! App is designed to run on the most recent versions of these operating systems, please make sure your device is updated accordingly.   
+How do I reinstall the Walker App? 
+ To download or update the Walker App, click here.  
+What do I do if my app is slow? 
+ If your app is running slowly, it's likely due to a poor network connection.   
+ 
+ If you are using a Wi-Fi network, make sure you are connected to the fastest possible speed and that your signal strength is high. 
+ If you are using a cellular network, make sure that you are in an area where you have good signal strength or "full bars." 
+ 
+ Note: Switching from Wi-Fi to cellular internet connection may also cause a loss or delay in app service. This often occurs when you are leaving your home and your device tries to disconnect from Wi-Fi and reconnect to a cellular network. It is recommended that you stay connected to a cellular network at all times when using the Wag! App and that you remain in an area with good signal strength.  
+Is my phone compatible? 
+ The minimum hardware requirement for Android is 5.0+ and iOS is 11+.  
+ Note: We no longer support the iPhone 5 and iPhone 5c devices. iPhone 5s / iPhone SE models and newer are still supported.  
+My push notifications and texts from Wag! are delayed. 
+ Delayed messaging and notification issues are commonly due to a poor network connection.   
+ 
+ If you are using a Wi-Fi network, make sure you are connected to the fastest possible speed and that your signal strength is high. 
+ If you are using a cellular network, make sure that you are in an area where you have good signal strength or "full bars." 
+ 
+ Note: Switching from Wi-Fi to cellular internet connection may also cause a loss or delay in app service. This often occurs when you are leaving your home and your device tries to disconnect from Wi-Fi and reconnect to a cellular network. It is recommended that you stay connected to a cellular network at all times when using the Wag! App and that you remain in an area with good signal strength. If you continue to experience delays in messaging, please contact your service provider for more support.   
+ My messages and text from Wag! are delayed, what do I do?  
+I no longer receive messages from Wag!. 
+ If you are no longer receiving messages from Wag!, please make sure your app is up-to-date. To install the most recent version of the Wag! app, click here. If your app is up-to-date, be sure that the app has the appropriate permissions by checking the Settings on your device. You will need to allow permissions for:  
+ 
+ Camera 
+ Contacts 
+ Location 
+ Microphone 
+ Storage 
+ Notifications 
+ 
+How do I update my time zone? 
+ Time zone issues within the app are most commonly due to an incorrect address.   
+ To update your address in the app:  
+ 
+ Open the menu in the top-left corner of the home screen → 
+ Tap “View profile” → 
+ Tap "Edit" 
+ 
+  Make sure to tap "Save" before exiting.  
+How do I reset my password? 
+ From the Walker App login screen, click "Forgot Password." A password reset email will be sent to the email address associated with your Wag! account. Once you have received the password reset email, follow the instructions to reset your password. </h4>
+
+                    <h3>Incident Resolution Guidelines</h3>
+                         <h4>  </h4>
+
+                    <h3>All Kinds of Dog Collars</h3>
+                         <h4>   
+  
+ Helpful tips on dog collars. Reaching out to the Pet Parent for specific instructions is always recommended! </h4>
+
+                    <h3>All Kinds of Harnesses</h3>
+                         <h4>   
+  
+ Helpful tips on harnesses. Reaching out to the Pet Parent for specific instructions is always recommended! </h4>
+
+                    <h3>What to Do if a Dog Gets Off Leash</h3>
+                         <h4>   
+  
+  Helpful suggestions on off leash activity. If you're experiencing off leash activity during a scheduled service, please engage the emergency support line by clicking the red bell in the app.  </h4>
+
+                    <h3>How to Walk a Dog</h3>
+                         <h4>   
+  
+ Helpful suggestions on how to walk a dog. Reaching out to the Pet Parent for specific instructions is always recommended! </h4>
+
+                    <h3>Equipment Check</h3>
+                         <h4>   
+  
+ Helpful tips on equipment. Reaching out to the Pet Parent for specific instructions is always recommended! </h4>
+
+                    <h3>Getting a Dog In and Out of a Crate</h3>
+                         <h4> Helpful tips on how to get a dog out of a crate.   
+ Helpful tips on how to get a dog in and out of a crate. Reaching out to the Pet Parent is always recommended!  </h4>
+
+                    <h3>Understanding Leash Aggression</h3>
+                         <h4>   
+  
+  Helpful tips on understanding leash aggression. Reaching out to the Pet Parent for specific instructions is always recommended! </h4>
+
+                    <h3>When a Dog Doesn't Want to Walk</h3>
+                         <h4>   
+  
+ Helpful suggestions when a dog doesn't want to take a walk. Reaching out to the Pet Parent is always recommended! </h4>
+
+                    <h3>Doggie Daycare & Overnights</h3>
+                         <h4>   
+  
+ This video includes helpful tips for a successful overnight service with a dog for the Pet Parent. Reaching out to the Pet Parent is always recommended! </h4>
+
+               <h2>COVID-19</h2>
+          <h1>Safety Center | Wag! Help Center</h1>
+                    <h3>Info on COVID-19</h3>
+                         <h4> We know the novel coronavirus ("COVID-19") is on many of our minds. As we all continue to monitor the situation very closely, we wanted to share that Pet Caregivers continue to be available for walking, sitting and boarding on the Wag! platform. The health and safety for Pet Caregivers, Pet Parents and their dogs are and always will be our highest priority. In situations such as this, we understand that we need to evolve the Wag! platform to help do our part to best serve you and the community as safely as possible.   
+ Below you’ll find information on recent platform changes, including Socially Distanced Services, dedicated COVID-19 Tip Function, and our COVID-19 Resource Center and FAQs. We will continue to monitor the situation and provide updates as they become available.  
+  
+ Socially Distanced Services  
+ Pet Parents may update “How to get in” to request a service as a socially distanced service and to provide specific instructions to help limit physical interactions. Here is an example of simple measures you can take when performing socially distanced services:  
+ 
+ Requesting a “socially distanced service” - When requesting a walk through the Wag! platform, Pet Parents have the option to update the "How to get in" section with the socially distanced service request and any relevant instructions to help limit interaction. For example: "Socially Distanced Service - I’ll have Fido ready with a harness and leash on. Please knock or message me in-app when you arrive and I’ll open the front door and hand the attached leash to you." 
+ Pet Parents can message their Pet Caregiver in-app to remind them of the request for a socially distanced service. Remember to wash your hands or use hand sanitizer before handling the leash and after both pick-up and drop-off and follow advice from public health authorities like the CDC. 
+ 
+  
+ Dedicated COVID-19 Tip Function  
+ To support the Pet Caregiver community in defraying the cost of additional COVID-19 related safety supplies, Pet Parents now have the option to give a “Dedicated COVID-19 Tip.” This provides a mechanism for a Pet Parent to help pay for gloves, hand sanitizer, as well as any other essential equipment.  
+  
+ COVID-19 Resources  
+ We ask that Pet Parents and Pet Caregivers follow the guidance of the CDC and the below tips to help prevent the further spread of the virus:   
+ 
+ If you feel sick, please stay home; don’t request services on the platform.  
+ Frequently wash your hands with soap and water for at least 20 seconds if soap and water are not readily available, clean hands by using alcohol-based hand sanitizer that contains at least 60% alcohol, including immediately before and after a service is completed.  
+ When coughing or sneezing, cover your mouth and nose with the inside of your elbow or tissue – throw tissue away immediately and wash hands.  
+ Avoid close contact with anyone who is sick, and please seek medical care if you have a fever and symptoms, such as cough and/or difficulty breathing.  
+ 
+What do I do if there are no available walks in my area?  
+ For safety, cities and states across the country continue to adjust travel and quarantine restrictions due to COVID-19. If your area is still affected by a reduced number of Pet Parent requests, Wag! recommends using your public profile to promote your services and to remind local Pet Parents that Wag! is still here to help by providing socially distanced services. For details on how to update and self promote your Wag! Caregiver Profile click on this link.  
+Further Support 
+ Wag! has partnered with Stride to provide Pet Caregivers with health and financial resources during the COVID-19 pandemic and beyond. For more information on Stride and its benefits, please click this link.  
+  
+ We are prepared to navigate these challenging circumstances with the Wag! community’s health and safety in mind. Our services will continue, along with 24/7 customer support, and we thank you in advance for working with us to ensure the Wag! platform operates as safely as possible.  </h4>
+
+                    <h3>Socially Distanced Pet Care Informational Session</h3>
+                         <h4> The novel coronavirus ("COVID-19") remains on many of our minds. As life begins to return to normal and more Wag! Services are booked by Pet Parents, the health and safety of the Wag! community is our top priority.   
+ With this in mind, we have launched an optional informational session for Pet Caregivers to learn about CDC recommendations in the context of pet care & dog walking. Most Pet Caregivers finish the session in under 5 minutes, and upon completion, the following 'Socially Distanced Pet Care' tag will be awarded to you and displayed on your profile:   
+    
+ IMPORTANT: When accessing the course, please enter the email address associated with your Wag! Walking account, or else we may not be able to display the tag on your profile automatically.   
+ 
+ Frequently Asked Questions  
+ 
+ I never got an email about this. Can I still complete the session?  Yes! You can complete the session by visiting this link.  When entering your information on the course page, please use the email address associated with your Wag! Walking account. If you use a different email, we will not be able to display the tag on your profile.  
+ How can I get the Socially Distanced Pet Care tag on my profile?  As soon as you complete the informational session, the 'Socially Distanced Pet Care' tag will appear on your profile. Please allow up to 24 hours for the tag to appear, but in most cases, the tag will appear instantly.  
+ I completed the session over 24 hours ago and I still haven't gotten the tag.   We're sorry to hear that! The most common cause of this issue is completing the course under an email address that is different from the email on file for your Wag! Walking account.    Please reach out to support under the 'Help' tab of the Wag! Walking app if the issue persists, and after verifying that you have fully completed the course we can manually add the tag to your profile.    
+ 
+ Thank you for working with us to ensure the Wag! platform operates as safely as possible!  </h4>
+
+                    <h3>Tips from Other Pet Caregivers</h3>
+                         <h4>Service Animals 
+ If you require a service animal, it's recommended to follow these steps:  
+ 
+ Add the information about requiring a service animal to your public bio 
+ Prior to the service, reach out to the Pet Parent and inform them of the need for the service animal 
+ If the service animal assists you on the walk, please ask the pet parent if they have any safety issues with their own dogs that may put you or the animals in danger 
+   
+   If no, complete the service as normal 
+   If yes, please submit a cover through the app  
+    
+ 
+Navigating The App 
+ As an app-based platform, efficient navigation of the app can play a major role in a successful service. Pet Caregivers on the platform have found success in preparing to perform a service with Wag! by doing the following:  
+ 
+ Completing their test walk 
+ Familiarizing themselves with the app navigation and features 
+ Reading the Terms of Services 
+ Reading the Pet Caregivers section of the Wag! help center 
+ 
+Keeping Keys Safe 
+ A Pet Parent places a great deal of trust in Pet Caregivers to access their property and care for their dog(s). Pet Caregivers have shared the following tips for keeping a Pet Parent’s keys safe:  
+ 
+ Put the key back in its original spot before heading out on the walk 
+ Make sure the key is secure prior to ending the service 
+ If for any reason you are unable to lock up, make sure to indicate this in the app upon completion of the service  
+ Ensure the property is secured in the same way it was when you arrived 
+ If keys are misplaced, contact the Pet Parent and Customer Service for assistance  
+ 
+Security and Home Access 
+ Staying safe and making thoughtful decisions are important to the wellbeing of Pet Caregivers, Pet Parents, and the dogs using Wag!. Pet Caregivers have found success in staying safe and making thoughtful decisions by doing the following:  
+ 
+ Entering a Pet Parent's home through designated doors / entries 
+ Avoiding unsafe situations 
+ Avoiding entering or accessing areas of the home not necessary to completing a service 
+ Remaining aware of their surroundings 
+ 
+Picking Up After The Pup 
+ Dog waste can spread disease and become a smelly nuisance. In addition, many jurisdictions will issue a citation for dog waste that has not been picked up. Pet Caregivers have shared the following suggestions:  
+ 
+ Before leaving on the walk, be sure you have something handy to pick up after the dog(s) 
+ Clean up the dog’s waste while on the walk 
+ It is a good idea to keep a few bags on hand at all times 
+ If a citation is issued, work respectfully with the local officials while communicating with the Pet Parent and Wag! customer service 
+ 
+ Have additional tips or tricks for completing a safe and efficient service? Tell us at feedback@wagwalking.com! </h4>
+
+               <h2>Staying Safe</h2>
+                    <h3>Signs of Dog Aggression</h3>
+                         <h4> If you believe a dog is displaying signs of aggression and you are not comfortable proceeding with the service, please attempt to contact the Pet Parent to discuss the situation. You may mutually decide to cancel the service. If you are unable to get in contact with the Pet Parent, please contact Wag! using the "Help" tab in the app. </h4>
+
+                    <h3>Inclement Weather</h3>
+                         <h4> Wag! services can be booked rain or shine! If you are not comfortable proceeding with a schedule due to poor weather, the Wag! app allows you to communicate directly with the Pet Parent. You may mutually decide to cancel the service. Should you mutually decide to cancel, please recommend that the Pet Parent cancel in the app from the "Schedules" tab. Submitting a cover at the request of a Pet Parent can affect your cancellation rating (which is part of your Pet Parent Favorability). </h4>
+
+               <h2>Contacting the Pet Parent</h2>
+                    <h3>Chatting with Pet Parents</h3>
+                         <h4>How do I contact a Pet Parent? 
+ You can communicate with the Pet Parent from the Walker App through our in-app chat feature. As of July 2020, chat sessions are persistent, which means they will no longer expire after 12 hours. Instead, your chats will expire after 10 days of inactivity (no messages sent or received for 10 days).  
+How do I send a chat to a Pet Parent? 
+ Existing Conversation: You can send a chat by tapping the "Messages" icon at the bottom of the Home Screen, then tapping the conversation you'd like to continue.  
+ New Conversation: To initiate a chat with a Pet Parent, you must have a service booked or in progress with them.  
+ 
+ Booked Service Navigate to the "Booked" tab  → Tap on the service for the Pet Parent you'd like to contact → Tap "Contact Pet Parent" 
+ Service in Progress Navigate to the Live Service view → Tap the "Chat" icon  
+ 
+ Note: Pet Parents are able to initiate a conversation with you if they have marked you as "Preferred" or if you have previously completed a service for their pet.  
+How will I be notified about new messages? 
+ Wag! will alert you via push notification when you receive a message. For the best experience, we recommend enabling push notifications for the Walker App and checking your messages tab frequently.  
+Can I save the photos I send via chat? 
+ Yes! To save a photo, tap and hold the photo, and select "Save."  
+Can I send videos via chat? 
+ No. Video is currently not supported. </h4>
+
+                    <h3>Calling Pet Parents</h3>
+                         <h4>How do I call a Pet Parent? 
+ You are able to call a Pet Parent for which you have a current or upcoming schedule directly from the chat screen.  
+ 
+ Open the "Messages" tab from the main menu of the Walker App → 
+ Click the chat of the Pet Parent with which you’d like to connect → 
+ In the chat, click the phone icon (iOS) or the three vertical dots (Android) → 
+ Select “Call Pet Parent.” 
+ 
+ You will be connected via a call-only line that is masked for your privacy. For your safety, we recommend never sharing personal phone numbers, logins, or financial info. </h4>
+
+               <h2>Safety Videos</h2>
+                    <h3>Equipment Check</h3>
+                         <h4>   
+  
+  Helpful tips on equipment. Reaching out to the Pet Parent for specific instructions is always recommended. Click here to watch! </h4>
+
+                    <h3>Understanding Leash Aggression</h3>
+                         <h4>   
+  
+  Helpful tips on understanding leash aggression. Reaching out to the Pet Parent for specific instructions is always recommended. Click here to watch. </h4>
+
+                    <h3>Getting a Dog In and Out of a Crate</h3>
+                         <h4>   
+  
+ Helpful tips on how to get a dog in and out of a crate. Reaching out to the Pet Parent for specific instructions is always recommended! Click here to watch! </h4>
+
+                    <h3>When a Dog Doesn't Want to Walk</h3>
+                         <h4>   
+  
+ Helpful suggestions when a dog doesn't want to take a walk. Reaching out to the Pet Parent is always recommended. Click here to watch! </h4>
+
+                    <h3>Referral Bonuses</h3>
+                         <h4>How do I earn a Referral Bonus? 
+ 
+ Open the Main Menu from top left corner of the home screen → 
+ Tap “Refer Pet Parents” → 
+ Tap "Text Invites" → 
+ Once the Pet Parent has taken their first fully paid service, you’ll receive your referral bonus! For a service to be "fully paid," no gifted Wag! Credits can be used to pay for the service. 
+</h4>
+
+                    <h3>Meeting and Leashing a Dog</h3>
+                         <h4>   
+  This video includes helpful tips for meeting and leashing a dog for the first time. Click here to watch! </h4>
+
+                    <h3>Dog Walk Distractions</h3>
+                         <h4>   
+ This video explains the types of distractions a dog may experience while on a walk and how to read a dog's body language and avoid confrontation. Click hereto watch! </h4>
+
+                    <h3>Doggie Daycare & Overnights</h3>
+                         <h4>   
+  
+  This video includes helpful tips for a successful overnight service with a dog for the Pet Parent. Reaching out to the Pet Parent is always recommended. Click here to watch! </h4>
+
+                    <h3>All Kinds of Collars</h3>
+                         <h4>   
+ This video includes helpful tips for collars. Click here to watch! </h4>
+
+               <h2>Beware of Scams</h2>
+                    <h3>Never Share Passwords</h3>
+                         <h4> Wag! will never contact you directly to ask for your password or banking information. If you receive a suspicious call or message, do not reply. Instead, contact our Customer Success team via the Help Tab in the Walker App.  
+ Beware of Scams  
+ 
+ Scammers may pose as Wag! customer service professionals to try to obtain your personal information or to access your account(s). If you’re unsure if a phone call, email, or text is legitimate, contact our Customer Success team via the Help Tab in the Walker App. Do not reply or use the contact information in the suspicious message. 
+ 
+ Tips for Creating a Strong Password  
+ Wag! takes your account security seriously, and choosing a secure password helps protect your account against unauthorized use. Here are some of the best practices to follow when creating a password:   
+ 
+ Straight rows of keys are easy to guess.  
+ Short keyboard patterns are easy to guess.  
+ Use a longer keyboard pattern with more turns.  
+ Repeats like "aaa" are easy to guess.  
+ Sequences like "abc" or "6543" are easy to guess. 
+ Repeats like "abcabcabc" are only slight harder to guess than "abc".  
+ Avoid dates and years that are associated with you.  
+ Avoid recent years.  
+ Capitalization does not help very much.  
+ Reversed words aren't much harder to guess.  
+ All uppercase is almost as easy to guess as all lower case.  
+ Avoid predictable substitutions like "@" instead of at.  
+ 
+ In addition to the above tips, we recommend your password includes:  
+ 
+ More than eight characters 
+ Both upper- and lower-case letters 
+ A mix of numbers and special characters (i.e., # @ $ % &) 
+ 
+I can't change my password! 
+ If you can't update your password or are receiving an "Invalid Input" error message, please follow the Strong Password guidelines above (or click here).  </h4>
+
+               <h2>Community Guidelines</h2>
+               <h2>Requesting Covers</h2>
+                    <h3>All Kinds of Harnesses</h3>
+                         <h4>   
+  This video includes helpful tips for harnesses. Click here to watch! </h4>
+
+                    <h3>Before a Sitting</h3>
+                         <h4>How do I prepare for a Sitting? 
+ When sitting at a Pet Parent’s home, it’s important to be respectful of the home both inside and out. Many Pet Caregivers speak with the Pet Parent prior to the service to go over:  
+ 
+ Expectations of the service 
+ Feeding instructions 
+ Special needs 
+ Likes and dislikes 
+ Other 
+ 
+ This is a great way to make sure that it’s a good fit for both the Pet Caregiver and dog. </h4>
+
+                    <h3>Community Guidelines</h3>
+                         <h4> To view Wag!'s Community Guidelines, click here. </h4>
+

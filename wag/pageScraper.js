@@ -51,7 +51,7 @@ const scraperObject = {
                     "data": section_list
                 }
                 //console.log(packet)
-                await fs.appendFile('dog-walkers-data.json', JSON.stringify(packet)+',', 'utf8', (e) => console.log(e))
+                await fs.appendFile('json/dog-walkers-data.json', JSON.stringify(packet)+',', 'utf8', (e) => console.log(e))
             }
             
             ))

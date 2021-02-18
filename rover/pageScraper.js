@@ -34,7 +34,7 @@ const scraperObject = {
                     return {"title": heading, "data": body}
                 }))
 
-                await fs.appendFile('rover-data.json', JSON.stringify(articles)+',', 'utf8', (e) => console.log(e))
+                await fs.appendFile('json/rover-data.json', JSON.stringify(articles)+',', 'utf8', (e) => console.log(e))
                 //console.log(articles)
             }))
             

@@ -1,4 +1,4 @@
-const pageScraper = require('./PS');
+const pageScraper = require('./pageScraper');
 
 async function scrapeAll(browserInstance){
     let browser;
